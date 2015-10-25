@@ -1,0 +1,291 @@
+Group	Subgroup	Profile category	Index	Item label	Colour	Letters to highlight
+Vowels Long/Short	1 Short Vowels	1	0	LETTER_EQUALS_PHONEME (i-ɪ)	1	ALL
+Vowels Long/Short	1 Short Vowels	1	1	LETTER_EQUALS_PHONEME (a-æ)	1	ALL
+Vowels Long/Short	1 Short Vowels	1	2	LETTER_EQUALS_PHONEME (o-ɒ)	1	ALL
+Vowels Long/Short	1 Short Vowels	1	4	LETTER_EQUALS_PHONEME (e-e)	1	ALL
+Vowels Long/Short	1 Short Vowels	1	5	LETTER_EQUALS_PHONEME (u-ʌ)	1	ALL
+Vowels Long/Short	1 Short Vowels	1	9	LETTER_EQUALS_PHONEME (y-i)	1	ALL
+Vowels Long/Short	1 Short Vowels	1	43	LETTER_EQUALS_PHONEME (y-ɪ)	1	ALL
+Vowels Long/Short	2 Long Vowels	1	3	LETTER_EQUALS_PHONEME (i-aɪ)	1	ALL
+Vowels Long/Short	2 Long Vowels	1	6	LETTER_EQUALS_PHONEME (ar-ɑː)	1	ALL
+Vowels Long/Short	2 Long Vowels	1	7	LETTER_EQUALS_PHONEME (ee-iː)	1	ALL
+Vowels Long/Short	2 Long Vowels	1	8	LETTER_EQUALS_PHONEME (or-ɔː)	1	ALL
+Vowels Long/Short	2 Long Vowels	1	10	LETTER_EQUALS_PHONEME (y-aɪ)	1	ALL
+Vowels Long/Short	2 Long Vowels	1	11	LETTER_EQUALS_PHONEME (ie-aɪ)	1	ALL
+Vowels Long/Short	2 Long Vowels	1	12	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (iCe-aɪC)	1	i
+Vowels Long/Short	2 Long Vowels	1	13	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (aCe-eɪC)	1	a
+Vowels Long/Short	2 Long Vowels	1	18	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (oCe-əʊC)	1	o
+Vowels Long/Short	2 Long Vowels	1	19	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (uCe-juːC)	1	u
+Vowels Long/Short	2 Long Vowels	1	23	TRIGRAPH_EQUALS_PHONEME (igh-aɪ)	1	ALL
+Vowels Long/Short	2 Long Vowels	1	27	DIGRAPH_EQUALS_PHONEME (ow-əʊ)	1	ALL
+Vowels Long/Short	2 Long Vowels	1	28	DIGRAPH_EQUALS_PHONEME (ow-aʊ)	1	ALL
+Vowels Long/Short	2 Long Vowels	1	30	LETTER_EQUALS_PHONEME (o-əʊ)	1	ALL
+Vowels Long/Short	2 Long Vowels	1	44	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (yCe-aɪC)	1	y
+Vowels Long/Short	2 Long Vowels	1	46	DIGRAPH_EQUALS_PHONEME (ei-iː)	1	ALL
+Vowels Long/Short	2 Long Vowels	1	58	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (ine-aɪn)	1	i
+Vowels Long/Short	3 Diphthongs	1	26	DIGRAPH_EQUALS_PHONEME (ai-eɪ)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	27	DIGRAPH_EQUALS_PHONEME (ow-əʊ)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	28	DIGRAPH_EQUALS_PHONEME (ow-aʊ)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	29	DIGRAPH_EQUALS_PHONEME (oa-əʊ)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	30	LETTER_EQUALS_PHONEME (o-əʊ)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	34	DIGRAPH_EQUALS_PHONEME (oi-ɔɪ)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	35	DIGRAPH_EQUALS_PHONEME (oy-ɔɪ)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	45	DIGRAPH_EQUALS_PHONEME (ou-aʊ)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	47	DIGRAPH_EQUALS_PHONEME (ei-eɪ)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	48	EQUALS_PRONUNCIATION_CONTAINS (eigh-eɪ)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	54	DIGRAPH_EQUALS_PHONEME (ey-eɪ)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	55	DIGRAPH_EQUALS_PHONEME (oe-əʊ)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	61	TRIGRAPH_EQUALS_PHONEME (air-eə)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	62	TRIGRAPH_EQUALS_PHONEME (are-eə)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	63	TRIGRAPH_EQUALS_PHONEME (ear-eə)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	64	TRIGRAPH_EQUALS_PHONEME (ear-ɪə)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	65	TRIGRAPH_EQUALS_PHONEME (eer-ɪə)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	66	TRIGRAPH_EQUALS_PHONEME (ere-ɪə)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	67	TRIGRAPH_EQUALS_PHONEME (ure-ʊə)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	68	TRIGRAPH_EQUALS_PHONEME (oor-ʊə)	1	ALL
+Vowels Long/Short	3 Diphthongs	1	69	TRIGRAPH_EQUALS_PHONEME (our-ʊə)	1	ALL
+Vowel Letters	Letter A	1	1	LETTER_EQUALS_PHONEME (a-æ)	1	ALL
+Vowel Letters	Letter A	1	6	LETTER_EQUALS_PHONEME (ar-ɑː)	2	ALL
+Vowel Letters	Letter A	1	13	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (aCe-eɪC)	3	a
+Vowel Letters	Letter A	1	70	LETTER_EQUALS_PHONEME (a-ɒ)	4	ALL
+Vowel Letters	Letter E	1	4	LETTER_EQUALS_PHONEME (e-e)	1	ALL
+Vowel Letters	Letter E	1	7	LETTER_EQUALS_PHONEME (ee-iː)	2	ALL
+Vowel Letters	Letter E	1	31	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (eCe-iːC)	2	e
+Vowel Letters	Letter I	1	0	LETTER_EQUALS_PHONEME (i-ɪ)	1	ALL
+Vowel Letters	Letter I	1	3	LETTER_EQUALS_PHONEME (i-aɪ)	2	ALL
+Vowel Letters	Letter I	1	12	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (iCe-aɪC)	2	i
+Vowel Letters	Letter I	1	23	TRIGRAPH_EQUALS_PHONEME (igh-aɪ)	2	ALL
+Vowel Letters	Letter O	1	2	LETTER_EQUALS_PHONEME (o-ɒ)	1	ALL
+Vowel Letters	Letter O	1	8	LETTER_EQUALS_PHONEME (or-ɔː)	2	ALL
+Vowel Letters	Letter O	1	18	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (oCe-əʊC)	3	ALL
+Vowel Letters	Letter O	1	24	LETTER_EQUALS_PHONEME (o-ʌ)	4	ALL
+Vowel Letters	Letter O	1	30	LETTER_EQUALS_PHONEME (o-əʊ)	3	ALL
+Vowel Letters	Letter U	1	5	LETTER_EQUALS_PHONEME (u-ʌ)	1	ALL
+Vowel Letters	Letter U	1	19	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (uCe-juːC)	2	ALL
+Vowel Letters	Letter Y	1	9	LETTER_EQUALS_PHONEME (y-i)	1	ALL
+Vowel Letters	Letter Y	1	10	LETTER_EQUALS_PHONEME (y-aɪ)	2	ALL
+Vowel Letters	Letter Y	1	43	LETTER_EQUALS_PHONEME (y-ɪ)	1	ALL
+Vowel Letters	Letter Y	1	44	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (yCe-aɪC)	2	ALL
+Vowels Sounds	Sound 'a' as in 'cat'	1	1	LETTER_EQUALS_PHONEME (a-æ)	1	ALL
+Vowels Sounds	Sound 'eɪ' as in 'make'	1	3	LETTER_EQUALS_PHONEME (i-aɪ)	1	ALL
+Vowels Sounds	Sound 'eɪ' as in 'make'	1	10	LETTER_EQUALS_PHONEME (y-aɪ)	1	ALL
+Vowels Sounds	Sound 'eɪ' as in 'make'	1	11	LETTER_EQUALS_PHONEME (ie-aɪ)	1	ALL
+Vowels Sounds	Sound 'eɪ' as in 'make'	1	12	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (iCe-aɪC)	1	i
+Vowels Sounds	Sound 'eɪ' as in 'make'	1	23	TRIGRAPH_EQUALS_PHONEME (igh-aɪ)	1	ALL
+Vowels Sounds	Sound 'eɪ' as in 'make'	1	44	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (yCe-aɪC)	1	y
+Vowels Sounds	Sound 'eɪ' as in 'make'	1	58	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (ine-aɪn)	1	i
+Vowels Sounds	Sound 'e' as in 'bed'	1	4	LETTER_EQUALS_PHONEME (e-e)	1	ALL
+Vowels Sounds	Sound 'e' as in 'bed'	1	21	DIGRAPH_EQUALS_PHONEME (ea-e)	1	ALL
+Vowels Sounds	Sound 'ee' as in 'feet'	1	7	LETTER_EQUALS_PHONEME (ee-iː)	1	ALL
+Vowels Sounds	Sound 'ee' as in 'feet'	1	20	DIGRAPH_EQUALS_PHONEME (ea-iː)	1	ALL
+Vowels Sounds	Sound 'ee' as in 'feet'	1	31	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (eCe-iːC)	1	e
+Vowels Sounds	Sound 'ee' as in 'feet'	1	36	DIGRAPH_EQUALS_PHONEME (ie-iː)	1	ALL
+Vowels Sounds	Sound 'ee' as in 'feet'	1	46	DIGRAPH_EQUALS_PHONEME (ei-iː)	1	ALL
+Vowels Sounds	Sound 'ee' as in 'feet'	1	53	DIGRAPH_EQUALS_PHONEME (ey-iː)	1	ALL
+Vowels Sounds	Sound 'ee' as in 'feet'	1	60	EQUALS_PRONUNCIATION_CONTAINS (ine-iːn)	1	i
+Vowels Sounds	Sound 'ɪ' as in 'big'	1	0	LETTER_EQUALS_PHONEME (i-ɪ)	1	ALL
+Vowels Sounds	Sound 'ɪ' as in 'big'	1	25	TRIGRAPH_EQUALS_PHONEME (ice-ɪs)	1	i
+Vowels Sounds	Sound 'ɪ' as in 'big'	1	43	LETTER_EQUALS_PHONEME (y-ɪ)	1	ALL
+Vowels Sounds	Sound 'ɪ' as in 'big'	1	52	DIGRAPH_EQUALS_PHONEME (ui-ɪ)	1	ALL
+Vowels Sounds	Sound 'ɪ' as in 'big'	1	59	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (ine-ɪn)	1	i
+Vowels Sounds	Sound 'aɪ' as in 'like'	1	3	LETTER_EQUALS_PHONEME (i-aɪ)	1	ALL
+Vowels Sounds	Sound 'aɪ' as in 'like'	1	10	LETTER_EQUALS_PHONEME (y-aɪ)	1	ALL
+Vowels Sounds	Sound 'aɪ' as in 'like'	1	11	LETTER_EQUALS_PHONEME (ie-aɪ)	1	ALL
+Vowels Sounds	Sound 'aɪ' as in 'like'	1	12	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (iCe-aɪC)	1	i
+Vowels Sounds	Sound 'aɪ' as in 'like'	1	23	TRIGRAPH_EQUALS_PHONEME (igh-aɪ)	1	ALL
+Vowels Sounds	Sound 'aɪ' as in 'like'	1	44	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (yCe-aɪC)	1	y
+Vowels Sounds	Sound 'aɪ' as in 'like'	1	58	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (ine-aɪn)	1	i
+Vowels Sounds	Sound 'o' as in 'lot'	1	2	LETTER_EQUALS_PHONEME (o-ɒ)	1	ALL
+Vowels Sounds	Sound 'o' as in 'lot'	1	70	LETTER_EQUALS_PHONEME (a-ɒ)	1	ALL
+Vowels Sounds	Sound 'ow' as in 'low'	1	27	DIGRAPH_EQUALS_PHONEME (ow-əʊ)	1	ALL
+Vowels Sounds	Sound 'ow' as in 'low'	1	29	DIGRAPH_EQUALS_PHONEME (oa-əʊ)	1	ALL
+Vowels Sounds	Sound 'ow' as in 'low'	1	30	LETTER_EQUALS_PHONEME (o-əʊ)	1	ALL
+Vowels Sounds	Sound 'ow' as in 'low'	1	55	DIGRAPH_EQUALS_PHONEME (oe-əʊ)	1	ALL
+Vowels Sounds	Sound 'ow' as in 'low'	1	18	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (oCe-əʊC)	1	o
+Vowels Sounds	Sound 'uh' as in 'bus'	1	5	LETTER_EQUALS_PHONEME (u-ʌ)	1	ALL
+Vowels Sounds	Sound 'uh' as in 'bus'	1	24	LETTER_EQUALS_PHONEME (o-ʌ)	1	ALL
+Vowels Sounds	Sound 'juː' as in 'cute'	1	19	PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED (uCe-juːC)	1	u
+Vowels Sounds	Sound 'juː' as in 'cute'	1	40	DIGRAPH_EQUALS_PHONEME (ew-juː)	1	ALL
+Vowels Sounds	Sound 'juː' as in 'cute'	1	56	DIGRAPH_EQUALS_PHONEME (eu-juː)	1	ALL
+Vowels Sounds	Sound 'oo' as in 'look'	1	17	DIGRAPH_EQUALS_PHONEME (oo-ʊ)	1	ALL
+Vowels Sounds	Sound 'oo' as in 'boot'	1	16	DIGRAPH_EQUALS_PHONEME (oo-uː)	1	ALL
+Vowels Sounds	Sound 'oo' as in 'boot'	1	41	DIGRAPH_EQUALS_PHONEME (ue-uː)	1	ALL
+Vowels Sounds	Sound 'oo' as in 'boot'	1	51	DIGRAPH_EQUALS_PHONEME (ui-uː)	1	ALL
+Vowels Sounds	Schwa or 'eh' as in 'about'	1	15	DIGRAPH_EQUALS_PHONEME (er-ə)	1	ALL
+Vowels Sounds	Schwa or 'eh' as in 'about'	1	49	TRIGRAPH_EQUALS_PHONEME (our-ə)	1	ALL
+Vowels Sounds	Schwa or 'eh' as in 'about'	1	50	DIGRAPH_EQUALS_PHONEME (ar-ə)	1	ALL
+Vowels Sounds	Schwa or 'eh' as in 'about'	1	57	EQUALS_PRONUNCIATION_CONTAINS (eur-ə)	1	ALL
+Suffixes (-ing, -s, -ed)	ADD rule	4	0	SUFFIX_ADD (s)	1	ALL
+Suffixes (-ing, -s, -ed)	ADD rule	4	1	SUFFIX_ADD (ed)	1	ALL
+Suffixes (-ing, -s, -ed)	ADD rule	4	2	SUFFIX_ADD (es)	1	ALL
+Suffixes (-ing, -s, -ed)	ADD rule	4	6	SUFFIX_ADD (ing)	1	ALL
+Suffixes (-ing, -s, -ed)	ADD rule	4	27	SUFFIX_ADD (ed-d)	1	ALL
+Suffixes (-ing, -s, -ed)	ADD rule	4	30	SUFFIX_ADD (ed-t)	1	ALL
+Suffixes (-ing, -s, -ed)	DOUBLE rule	4	10	SUFFIX_DOUBLE (ing)	1	ALL + PREVIOUS CONSONANT
+Suffixes (-ing, -s, -ed)	DOUBLE rule	4	11	SUFFIX_DOUBLE (ed)	1	ALL + PREVIOUS CONSONANT
+Suffixes (-ing, -s, -ed)	DOUBLE rule	4	29	SUFFIX_DOUBLE (ed-d)	1	ALL + PREVIOUS CONSONANT
+Suffixes (-ing, -s, -ed)	DOUBLE rule	4	32	SUFFIX_DOUBLE (ed-t)	1	ALL + PREVIOUS CONSONANT
+Suffixes (-ing, -s, -ed)	DROP rule	4	20	SUFFIX_DROP (ing)	1	ALL
+Suffixes (-ing, -s, -ed)	DROP rule	4	21	SUFFIX_DROP (ed)	1	ALL
+Suffixes (-ing, -s, -ed)	DROP rule	4	28	SUFFIX_DROP (ed-d)	1	ALL
+Suffixes (-ing, -s, -ed)	DROP rule	4	31	SUFFIX_DROP (ed-t)	1	ALL
+Suffixes (-ing, -s, -ed)	CHANGE rule	4	38	SUFFIX_CHANGE (es)	1	ALL
+Suffixes (-ing, -s, -ed)	CHANGE rule	4	39	SUFFIX_CHANGE (ed)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	ADD rule	4	3	SUFFIX_ADD (less)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	ADD rule	4	4	SUFFIX_ADD (ness)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	ADD rule	4	5	SUFFIX_ADD (en)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	ADD rule	4	7	SUFFIX_ADD (ful)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	ADD rule	4	8	SUFFIX_ADD (ish)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	ADD rule	4	9	SUFFIX_ADD (ist)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	ADD rule	4	14	SUFFIX_ADD (y)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	ADD rule	4	16	SUFFIX_ADD (ly)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	ADD rule	4	19	SUFFIX_ADD (ty)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	ADD rule	4	24	SUFFIX_ADD (er)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	ADD rule	4	33	SUFFIX_ADD (est)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	ADD rule	4	36	SUFFIX_ADD (al)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	ADD rule	4	66	SUFFIX_ADD (ous)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	ADD rule	4	86	SUFFIX_ADD (or)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	ADD rule	4	88	SUFFIX_ADD (able)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	ADD rule	4	91	SUFFIX_ADD (ment)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DOUBLE rule	4	12	SUFFIX_DOUBLE (en)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DOUBLE rule	4	13	SUFFIX_DOUBLE (ish)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DOUBLE rule	4	15	SUFFIX_DOUBLE (y)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DOUBLE rule	4	26	SUFFIX_DOUBLE (er)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DOUBLE rule	4	35	SUFFIX_DOUBLE (est)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	22	SUFFIX_DROP (y)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	23	SUFFIX_DROP (en)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	25	SUFFIX_DROP (er)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	34	SUFFIX_DROP (est)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	37	SUFFIX_DROP (al)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	67	SUFFIX_DROP (ous)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	87	SUFFIX_DROP (or)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	89	SUFFIX_DROP (able)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	17	SUFFIX_CHANGE (ity)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	18	SUFFIX_CHANGE (ility)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	40	SUFFIX_CHANGE (ly)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	41	SUFFIX_CHANGE (ness)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	42	SUFFIX_CHANGE (ful)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	43	SUFFIX_CHANGE (less)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	44	SUFFIX_CHANGE (er)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	45	SUFFIX_CHANGE (est)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	68	SUFFIX_CHANGE (ous)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	69	SUFFIX_CHANGE (tious)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	70	SUFFIX_CHANGE (cious)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	71	SUFFIX_CHANGE (ious)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	85	SUFFIX_CHANGE (uous)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	DROP rule	4	90	SUFFIX_CHANGE (able)	1	ALL
+Prefixes	Common prefixes	5	0	PREFIX (un)	1	ALL
+Prefixes	Common prefixes	5	1	PREFIX (mis)	1	ALL
+Prefixes	Common prefixes	5	2	PREFIX (under)	1	ALL
+Prefixes	Common prefixes	5	3	PREFIX (over)	1	ALL
+Prefixes	Common prefixes	5	6	PREFIX_GROUP (ad)	1	ALL
+Prefixes	Common prefixes	5	21	PREFIX_GROUP (in)	1	ALL
+Prefixes	Common prefixes	5	34	PREFIX_GROUP (dis)	1	ALL
+Prefixes	Common prefixes	5	40	PREFIX_GROUP (ex)	1	ALL
+Prefixes	Advanced prefixes	5	7	PREFIX_GROUP (abb)	1	ALL
+Prefixes	Advanced prefixes	5	8	PREFIX_GROUP (acc)	1	ALL
+Prefixes	Advanced prefixes	5	9	PREFIX_GROUP (aff)	1	ALL
+Prefixes	Advanced prefixes	5	10	PREFIX_GROUP (agg)	1	ALL
+Prefixes	Advanced prefixes	5	11	PREFIX_GROUP (all)	1	ALL
+Prefixes	Advanced prefixes	5	12	PREFIX_GROUP (ann)	1	ALL
+Prefixes	Advanced prefixes	5	13	PREFIX_GROUP (app)	1	ALL
+Prefixes	Advanced prefixes	5	14	PREFIX_GROUP (arr)	1	ALL
+Prefixes	Advanced prefixes	5	15	PREFIX_GROUP (ass)	1	ALL
+Prefixes	Advanced prefixes	5	16	PREFIX_GROUP (att)	1	ALL
+Prefixes	Advanced prefixes	5	17	PREFIX_GROUP (con)	1	ALL
+Prefixes	Advanced prefixes	5	18	PREFIX_GROUP (coll)	1	ALL
+Prefixes	Advanced prefixes	5	19	PREFIX_GROUP (corr)	1	ALL
+Prefixes	Advanced prefixes	5	20	PREFIX_GROUP (comm)	1	ALL
+Prefixes	Advanced prefixes	5	22	PREFIX_GROUP (ill)	1	ALL
+Prefixes	Advanced prefixes	5	23	PREFIX_GROUP (imm)	1	ALL
+Prefixes	Advanced prefixes	5	24	PREFIX_GROUP (irr)	1	ALL
+Prefixes	Advanced prefixes	5	25	PREFIX_GROUP (im)	1	ALL
+Prefixes	Advanced prefixes	5	26	PREFIX_GROUP (ir)	1	ALL
+Prefixes	Advanced prefixes	5	27	PREFIX_GROUP (sub)	1	ALL
+Prefixes	Advanced prefixes	5	28	PREFIX_GROUP (succ)	1	ALL
+Prefixes	Advanced prefixes	5	29	PREFIX_GROUP (suff)	1	ALL
+Prefixes	Advanced prefixes	5	30	PREFIX_GROUP (sugg)	1	ALL
+Prefixes	Advanced prefixes	5	31	PREFIX_GROUP (supp)	1	ALL
+Prefixes	Advanced prefixes	5	32	PREFIX_GROUP (summ)	1	ALL
+Prefixes	Advanced prefixes	5	33	PREFIX_GROUP (surr)	1	ALL
+Prefixes	Advanced prefixes	5	35	PREFIX_GROUP (diff)	1	ALL
+Prefixes	Advanced prefixes	5	36	PREFIX_GROUP (ob)	1	ALL
+Prefixes	Advanced prefixes	5	37	PREFIX_GROUP (off)	1	ALL
+Prefixes	Advanced prefixes	5	38	PREFIX_GROUP (opp)	1	ALL
+Prefixes	Advanced prefixes	5	39	PREFIX_GROUP (occ)	1	ALL
+Prefixes	Advanced prefixes	5	41	PREFIX_GROUP (eff)	1	ALL
+Syllables	Open/Closed	3	1	SYLLABLE_PATTERN (Closed syllables)	1	ALL
+Syllables	Open/Closed	3	2	SYLLABLE_PATTERN (Open syllables)	2	ALL
+Syllables	Word with 1, 2, or … syllables	3	0	SYLLABLE_PATTERN (1 syllable)	1	ALL
+Syllables	Word with 1, 2, or … syllables	3	9	SYLLABLE_COUNT (2 syllables)	2	ALL – WITH SMALL SPACE BETWEEN SYLLABLES
+Syllables	Word with 1, 2, or … syllables	3	10	SYLLABLE_COUNT (3 syllables)	3	ALL – WITH SMALL SPACE BETWEEN SYLLABLES
+Syllables	Word with 1, 2, or … syllables	3	11	SYLLABLE_COUNT (4 syllables)	4	ALL – WITH SMALL SPACE BETWEEN SYLLABLES
+Syllables	Word with 1, 2, or … syllables	3	12	SYLLABLE_COUNT (5 or more syllables)	5	ALL – WITH SMALL SPACE BETWEEN SYLLABLES
+Syllables	Syllable Patterns	3	3	SYLLABLE_PATTERN (vc/cv)	1	ALL
+Syllables	Syllable Patterns	3	4	SYLLABLE_PATTERN (v/cv)	2	ALL
+Syllables	Syllable Patterns	3	5	SYLLABLE_PATTERN (v/v)	3	ALL
+Syllables	Syllable Patterns	3	6	SYLLABLE_PATTERN (vc/v)	4	ALL
+Syllables	Syllable Patterns	3	7	SYLLABLE_PATTERN (qu:vc/cv)	1	ALL
+Syllables	Syllable Patterns	3	8	SYLLABLE_PATTERN (ture:vc/cv)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	48	SUFFIX_PATTERN (ation-eɪʃən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	49	SUFFIX_PATTERN (otion-əʊʃən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	50	SUFFIX_PATTERN (ition-ɪʃən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	51	SUFFIX_PATTERN (ution-uːʃən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	52	SUFFIX_PATTERN (action-ækʃən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	53	SUFFIX_PATTERN (ection-ekʃən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	54	SUFFIX_PATTERN (iction-ɪkʃən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	55	SUFFIX_PATTERN (uction-ʌkʃən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	56	SUFFIX_PATTERN (ention-enʃən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	57	SUFFIX_PATTERN (asion-eɪʒən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	58	SUFFIX_PATTERN (usion-uːʒən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	59	SUFFIX_PATTERN (ision-ɪʒən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	60	SUFFIX_PATTERN (osion-əʊʒən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	61	SUFFIX_PATTERN (mission-mɪʃən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	62	SUFFIX_PATTERN (ession-eʃən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	63	SUFFIX_PATTERN (ussion-ʌʃən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	64	SUFFIX_PATTERN (version-vɜːʃən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	65	SUFFIX_PATTERN (ulsion-ʌlʃən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	66	SUFFIX_ADD (ous)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	67	SUFFIX_DROP (ous)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	68	SUFFIX_CHANGE (ous)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	69	SUFFIX_CHANGE (tious)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	70	SUFFIX_CHANGE (cious)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	71	SUFFIX_CHANGE (ious)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	72	EQUALS_PRONUNCIATION_CONTAINS (tial-ʃəl)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	73	EQUALS_PRONUNCIATION_CONTAINS (sion-ʒən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	74	EQUALS_PRONUNCIATION_CONTAINS (sure-ʒə)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	75	EQUALS_PRONUNCIATION_ENDS (cial-ʃəl)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	76	EQUALS_PRONUNCIATION_ENDS (tial-ʃəl)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	77	EQUALS_PRONUNCIATION_ENDS (ology-ɒlədʒi)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	78	EQUALS_PRONUNCIATION_ENDS (tory-təri)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	79	SUFFIX_PATTERN (cian-ʃən)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	80	EQUALS_PRONUNCIATION_ENDS (dual-djʊəl)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	81	EQUALS_PRONUNCIATION_ENDS (tual-tʃʊəl)	1	ALL
+Suffixes (-er, -ment, -less, -ness, etc.)	Latin suffixes	4	82	EQUALS_PRONUNCIATION_ENDS (sual-ʒuəl)	1	ALL
+Consonants	Hard G	0	23	LETTER_EQUALS_PHONEME (g-g)	1	ALL
+Consonants	Hard G	0	24	DIGRAPH_EQUALS_PHONEME (gg-g)	1	ALL
+Consonants	Hard G	2	95	EQUALS_PRONUNCIATION_BEGINS (gh-g)	1	g
+Consonants	Hard G	2	104	EQUALS_PRONUNCIATION_BEGINS (gu-g)	1	g
+Consonants	Hard G	2	105	EQUALS_PRONUNCIATION_ENDS (gue-g)	1	ALL
+Consonants	Soft G	0	38	LETTER_EQUALS_PHONEME (g-dʒ)	1	ALL
+Consonants	Soft G	0	39	DIGRAPH_EQUALS_PHONEME (dg-dʒ)	1	ALL
+Consonants	Hard C	0	26	LETTER_EQUALS_PHONEME (c-k)	1	ALL
+Consonants	Hard C	0	27	DIGRAPH_EQUALS_PHONEME (ck-k)	1	ALL
+Consonants	Soft C	0	8	LETTER_EQUALS_PHONEME (c-s)	1	ALL
+Consonants	Soft C	2	84	EQUALS_PRONUNCIATION_BEGINS (c-s)	1	ALL
+Consonants	Soft C	2	85	EQUALS_PRONUNCIATION_BEGINS (sc-s)	1	ALL
+Consonants	Silent K and G	2	93	EQUALS_PRONUNCIATION_BEGINS (kn-n)	1	ALL
+Consonants	Silent K and G	2	94	EQUALS_PRONUNCIATION_BEGINS (gn-n)	1	ALL
+Consonants	Silent P	2	96	EQUALS_PRONUNCIATION_BEGINS (ps-s)	1	ALL
+Consonants	Silent H	2	95	EQUALS_PRONUNCIATION_BEGINS (gh-g)	1	ALL
+Consonants	Silent H	2	69	EQUALS_PRONUNCIATION_BEGINS (wh-w)	1	ALL
+Consonants	Silent T	2	103	EQUALS_PRONUNCIATION_CONTAINS (st-s)	1	t
+Consonants	'sh' sound	0	33	DIGRAPH_EQUALS_PHONEME (sh-ʃ)	1	ALL
+Consonants	'sh' sound	0	34	LETTER_EQUALS_PHONEME (s-ʃ)	1	ALL
+Consonants	'sh' sound	0	35	DIGRAPH_EQUALS_PHONEME (ss-ʃ)	1	ALL
+Consonants	'sh' sound	2	92	EQUALS_PRONUNCIATION_BEGINS (ch-ʃ)	1	ALL
+Consonants	'sh' sound	2	121	EQUALS_PRONUNCIATION_CONTAINS (ti-ʃ)	1	ALL
+Consonants	'sh' sound	2	122	EQUALS_PRONUNCIATION_CONTAINS (ci-ʃ)	1	ALL
+Consonants	'ch' sound	0	44	DIGRAPH_EQUALS_PHONEME (ch-tʃ)	1	ALL
+Consonants	'ch' sound	0	45	TRIGRAPH_EQUALS_PHONEME (tch-tʃ)	1	ALL
+Consonants	'ch' sound	4	81	EQUALS_PRONUNCIATION_ENDS (tual-tʃʊəl)	1	t

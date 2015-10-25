@@ -1,0 +1,166 @@
+Problem [1, 35], Pronounce 's' as 'ʃ'.For example: sugar, sure, insurances : 6 words!
+Problem [1, 36], Pronounce 'ss' as 'ʃ'.For example: pressured, pressures, pressure : 4 words!
+Problem [1, 40], Pronounce 'dg' as 'dʒ'.For example: bridging, bridge's, edged : 6 words!
+Problem [1, 41], Pronounce 'que' as 'k'. : 2 words!
+Problem [1, 43], Pronounce 'zz' as 'z'.For example: jazzes, jazzed, jazz's : 2 words!
+Problem [2, 26], Pronounce 'ice' as 'ɪs'.For example: notice, practice, office : 5 words!
+Problem [2, 41], Pronounce 'ew' as 'juː'.For example: fewer, newer, few : 6 words!
+Problem [2, 42], Pronounce 'ue' as 'uː'.For example: blueness, blue, blue's : 7 words!
+Problem [2, 45], Pronounce 'yCe' as 'aɪC'.For example: type, style's, types : 4 words!
+Problem [2, 47], Pronounce 'ei' as 'iː'.For example: receive, receiving, perceiving : 8 words!
+Problem [2, 48], Pronounce 'ei' as 'eɪ'.For example: surveillance's, surveillance : 1 words!
+Problem [2, 49], Pronounce 'eigh' as 'eɪ'.For example: weights, eight's, neighborhood : 7 words!
+Problem [2, 52], Pronounce 'ui' as 'uː'.For example: suit, juices, fruiting : 8 words!
+Problem [2, 53], Pronounce 'ui' as 'ɪ'.For example: builds, guiltier, building's : 9 words!
+Problem [2, 54], Pronounce 'ey' as 'iː'.For example: key, keys, keyed : 1 words!
+Problem [2, 55], Pronounce 'ey' as 'eɪ'.For example: hey, surveyed, survey : 5 words!
+Problem [2, 56], Pronounce 'oe' as 'əʊ'.For example: goes, heroes, potatoes : 8 words!
+Problem [2, 57], Pronounce 'eu' as 'juː'.For example: neutral, neutrally, neutrals : 1 words!
+Problem [2, 58], Pronounce 'eur' as 'ə'. : 1 words!
+Problem [2, 60], Pronounce 'ine' as 'ɪn'. : 8 words!
+Problem [2, 61], Pronounce 'ine' as 'iːn'.For example: machine's, machine, magazines : 6 words!
+Problem [2, 64], Pronounce 'ear' as 'eə'.For example: wears, wear, bear : 3 words!
+Problem [2, 67], Pronounce 'ere' as 'ɪə'.For example: here, atmospheres, merely : 8 words!
+Problem [2, 68], Pronounce 'ure' as 'ʊə'.For example: sure, sureness, ensured : 3 words!
+Problem [2, 69], Pronounce 'oor' as 'ʊə'.For example: poor, poorness, poornesses : 1 words!
+Problem [2, 70], Pronounce 'our' as 'ʊə'.For example: toured, tours, tour : 1 words!
+Problem [3, 5], Pronounce 'sn' as 'sn'.For example: snows, snow, snowed : 4 words!
+Problem [3, 6], Pronounce 'sm' as 'sm'.For example: smile's, smarted, smarter : 6 words!
+Problem [3, 7], Pronounce 'ad' as 'æd'.For example: ad, glad, dad : 6 words!
+Problem [3, 17], Pronounce 'spr' as 'spr'.For example: spring, spreads, springer : 4 words!
+Problem [3, 18], Pronounce 'scr' as 'skr'.For example: screen, screens, screamed : 7 words!
+Problem [3, 21], Pronounce 'am' as 'æm'.For example: am, program : 4 words!
+Problem [3, 22], Pronounce 'amp' as 'æmp'.For example: camp : 2 words!
+Problem [3, 23], Pronounce 'im' as 'ɪm'.For example: him, victim, claim : 6 words!
+Problem [3, 24], Pronounce 'Vb' as 'Vb'.For example: job, club, lab : 9 words!
+Problem [3, 31], Pronounce 'spl' as 'spl'.For example: splitting, splits, split's : 1 words!
+Problem [3, 34], Pronounce 'Vft' as 'Vft'.For example: gift, soft, shift : 9 words!
+Problem [3, 35], Pronounce 'elf' as 'elf'.For example: herself, himself, itself : 7 words!
+Problem [3, 39], Pronounce 'gl' as 'gl'. : 8 words!
+Problem [3, 41], Pronounce 'Vsk' as 'Vsk'.For example: task, desk, risk : 6 words!
+Problem [3, 42], Pronounce 'Vlk' as 'Vlk'.For example: milk : 3 words!
+Problem [3, 46], Pronounce 'thank' as 'θæŋk'.For example: thank, thanking, thanks : 2 words!
+Problem [3, 47], Pronounce 'ath' as 'ɑːθ'.For example: path : 2 words!
+Problem [3, 48], Pronounce 'oth' as 'ɒθ'.For example: cloth : 1 words!
+Problem [3, 49], Pronounce 'ength' as 'eŋθ'.For example: length, strength : 2 words!
+Problem [3, 54], Pronounce 'tw' as 'tw'.For example: twenty, twice, twenties : 6 words!
+Problem [3, 55], Pronounce 'dw' as 'dw'. : 1 words!
+Problem [3, 56], Pronounce 'wa' as 'wɒ'.For example: wants, want, wash : 5 words!
+Problem [3, 58], Pronounce 'swa' as 'swɒ'.For example: swallows, swallowing, swallowed : 1 words!
+Problem [3, 60], Pronounce 'shr' as 'ʃr'.For example: shrugged, shrugs, shrimp's : 3 words!
+Problem [3, 61], Pronounce 'Vx' as 'Vks'.For example: fix, six, sex : 9 words!
+Problem [3, 62], Pronounce 'zz' as 'z'.For example: jazz : 1 words!
+Problem [3, 63], Pronounce 'Vff' as 'Vf'.For example: staff, off, stuff : 7 words!
+Problem [3, 64], Pronounce 'Vnch' as 'Vntʃ'.For example: branch, french, lunch : 7 words!
+Problem [3, 66], Pronounce 'Vze' as 'Vz'.For example: analyze, emphasized, emphasize : 3 words!
+Problem [3, 67], Pronounce 'arch' as 'ɑːtʃ'.For example: search, research : 1 words!
+Problem [3, 72], Pronounce 'Vrge' as 'Vdʒ'.For example: large, emerge, charge : 4 words!
+Problem [3, 73], Pronounce 'Vnge' as 'Vndʒ'.For example: challenge, change, strange : 8 words!
+Problem [3, 74], Pronounce 'Vdge' as 'Vdʒ'.For example: bridge, acknowledge, knowledge : 7 words!
+Problem [3, 76], Pronounce 'fle' as 'fəl'.For example: trifle, shuffle, waffle : 1 words!
+Problem [3, 79], Pronounce 'dle' as 'dəl'.For example: handle, middle, needle : 5 words!
+Problem [3, 80], Pronounce 'kle' as 'kəl'.For example: tackle, ankle, sprinkle : 3 words!
+Problem [3, 81], Pronounce  'cle ' as  'kəl '.For example: article, circle, uncle : 9 words!
+Problem [3, 82], Pronounce 'gle' as 'gəl'.For example: single, angle, eagle : 4 words!
+Problem [3, 83], Pronounce 'zle' as 'zəl'.For example: puzzle, drizzle, muzzle : 1 words!
+Problem [3, 84], Pronounce 'stle' as 'səl'.For example: castle, whistle, hustle : 1 words!
+Problem [3, 86], Pronounce 'sc' as 's'.For example: schooled, scientific, schooling : 6 words!
+Problem [3, 88], Pronounce 'ege' as 'ɪdʒ'.For example: college : 2 words!
+Problem [3, 89], Pronounce 'Vtch' as 'Vtʃ'.For example: match, stretch, watch : 9 words!
+Problem [3, 91], Pronounce 'pph' as 'f'. : 1 words!
+Problem [3, 92], Pronounce 'ch' as 'k'.For example: characters, christian, christmas : 9 words!
+Problem [3, 93], Pronounce 'ch' as 'ʃ'.For example: chef, chefs, chef's : 1 words!
+Problem [3, 94], Pronounce 'kn' as 'n'.For example: knee's, know, knee : 7 words!
+Problem [3, 95], Pronounce 'gn' as 'n'.For example: gnome : 1 words!
+Problem [3, 96], Pronounce 'gh' as 'g'. : 1 words!
+Problem [3, 97], Pronounce 'ps' as 's'.For example: psychological : 3 words!
+Problem [3, 98], Pronounce 'rh' as 'r'.For example: rhythms, rhetoric, rhetoric's : 2 words!
+Problem [3, 99], Pronounce 'mb' as 'm'.For example: bomb, climb : 5 words!
+Problem [3, 100], Pronounce 'bt' as 't'.For example: doubt, debt : 2 words!
+Problem [3, 101], Pronounce 'mn' as 'm'.For example: column : 3 words!
+Problem [3, 102], Pronounce 'wr' as 'r'.For example: wronged, wronging, wrapped : 7 words!
+Problem [3, 104], Pronounce 'st' as 's'.For example: christmas, listened, listening : 3 words!
+Problem [3, 105], Pronounce 'gu' as 'g'. : 2 words!
+Problem [3, 106], Pronounce 'gue' as 'g'. : 5 words!
+Problem [3, 107], Pronounce 'que' as 'k'.For example: techniques, unique, uniqueness : 2 words!
+Problem [3, 108], Pronounce 'sch' as 'sk'.For example: schooled, schooling, school's : 4 words!
+Problem [3, 109], Pronounce 'xc' as 'ksk'.For example: excepts, excellent, excepted : 8 words!
+Problem [3, 110], Pronounce 'alC' as 'ɑːC'.For example: finals, hospitals, recall : 5 words!
+Problem [3, 111], Pronounce 'oh' as 'əʊ'.For example: oh : 1 words!
+Problem [3, 112], Pronounce 'cqu' as 'kw'.For example: acquires, acquired, acquiring : 2 words!
+Problem [3, 113], Pronounce 'ngue' as 'ŋ'.For example: tongue : 1 words!
+Problem [3, 114], Pronounce 'olC' as 'əʊC'. : 8 words!
+Problem [3, 115], Pronounce 'quarC' as 'kwɔːC'. For example: quark : 3 words!
+Problem [3, 116], Pronounce 'Cre' as 'Cə'. : 3 words!
+Problem [3, 119], Pronounce 'sci' as 'saɪ'.For example: scientific, scientist, scientists : 3 words!
+Problem [3, 120], Pronounce 'scle' as 'səl'.For example: muscles, muscled, muscle : 1 words!
+Problem [3, 121], Pronounce 'sure' as 'ʒə'. : 4 words!
+Problem [3, 124], Pronounce 'zure' as 'ʒə'. : 1 words!
+Problem [3, 128], Pronounce 'nch' as 'ntʃ'.For example: branch, french, lunch : 8 words!
+Problem [3, 129], Pronounce 'mp' as 'mp'.For example: jump, camp : 6 words!
+Problem [3, 130], Pronounce 'cise' as 'saɪz'.For example: exercise : 2 words!
+Problem [5, 4], Suffix 'less' adds to the word with no changes.  : 6 words!
+Problem [5, 6], Suffix 'en' adds to the word with no changes. For example: beaten, fallen, grandchildren : 5 words!
+Problem [5, 9], Suffix 'ish' adds to the word with no changes.  : 2 words!
+Problem [5, 10], Suffix 'ist' adds to the word with no changes.  : 6 words!
+Problem [5, 13], Suffix 'en' double the last letter of the word. For example: forbidden, bidden, been : 1 words!
+Problem [5, 14], Suffix 'ish' double the last letter of the word.  : 1 words!
+Problem [5, 15], Suffix 'y' adds to the word with no changes. For example: straightly, globally, formally : 5 words!
+Problem [5, 16], Suffix 'y' double the last letter of the word.  : 1 words!
+Problem [5, 20], Suffix 'ty' adds to the word with no changes.  : 5 words!
+Problem [5, 23], Suffix 'y' drops the last letter of the stem.  : 2 words!
+Problem [5, 43], Suffix 'ful' changes the last letter of the word.  : 1 words!
+Problem [5, 44], Suffix 'less' changes the last letter of the word.  : 1 words!
+Problem [5, 50], Suffix 'otion' pronounced as 'eɪʃən' adds to, drops or changes ending of the stem. For example: motion, emotion, notion : 4 words!
+Problem [5, 53], Suffix 'action' pronounced as 'ækʃən' adds to, drops or changes ending of the stem. For example: satisfaction, interaction, fraction : 7 words!
+Problem [5, 55], Suffix 'iction' pronounced as 'ɪkʃən' adds to, drops or changes ending of the stem. For example: conviction, addition, prediction : 5 words!
+Problem [5, 56], Suffix 'uction' pronounced as 'ʌkʃən' adds to, drops or changes ending of the stem. For example: production, construction, instruction : 6 words!
+Problem [5, 57], Suffix 'ention' pronounced as 'enʃən' adds to, drops or changes ending of the stem. For example: attention, mention, intervention : 7 words!
+Problem [5, 58], Suffix 'asion' pronounced as 'eɪʒən' changes ending of the stem. For example: invasion, occasion, persuasion : 2 words!
+Problem [5, 59], Suffix 'usion' pronounced as 'uːʒən' changes ending of the stem. For example: invasion, occasion, persuasion : 3 words!
+Problem [5, 60], Suffix 'ision' pronounced as 'ɪʒən' changes ending of the stem. For example: decision, television, division : 6 words!
+Problem [5, 61], Suffix 'osion' pronounced as 'əʊʒən' changes ending of the stem. For example: explosion, erosion, corrosion : 1 words!
+Problem [5, 62], Suffix 'mission' pronounced as 'mɪʃən' changes ending of the stem. For example: mission, permission, fission : 6 words!
+Problem [5, 63], Suffix 'ession' pronounced as 'eʃən' changes ending of the stem. For example: expression, session, profession : 9 words!
+Problem [5, 64], Suffix 'ussion' pronounced as 'ʌʃən' changes ending of the stem. For example: discussion, concussion, percussion : 1 words!
+Problem [5, 65], Suffix 'version' pronounced as 'vɜːʃən' changes ending of the stem. For example: version, immersion, dispersion : 2 words!
+Problem [5, 66], Suffix 'ulsion' pronounced as 'ʌlʃən' changes ending of the stem. For example: propulsion, expulsion, emulsion : 1 words!
+Problem [5, 67], Suffix 'ous' adds to the word with no changes.  : 1 words!
+Problem [5, 68], Suffix 'ous' drops the last letter of the stem.  : 3 words!
+Problem [5, 69], Suffix 'ous' changes the last letter of the word.  : 6 words!
+Problem [5, 70], Suffix 'tious' changes the last letter of the word.  : 1 words!
+Problem [5, 71], Suffix 'cious' changes the last letter of the word.  : 3 words!
+Problem [5, 72], Suffix 'ious' changes the last letter of the word.  : 8 words!
+Problem [5, 75], Pronounce 'sure' as 'ʒə'. : 4 words!
+Problem [5, 76], Pronounce 'cial' as 'ʃəl'.For example: official, commercial, special : 9 words!
+Problem [5, 77], Pronounce 'tial' as 'ʃəl'.For example: presidential, initial, potential : 8 words!
+Problem [5, 78], Pronounce 'ology' as 'ɒlədʒi'.For example: technology : 6 words!
+Problem [5, 79], Pronounce 'tory' as 'təri'. For example: documentary : 5 words!
+Problem [5, 80], Suffix 'cian' pronounced as 'ʃən' drops or changes ending of the stem. For example: musician, politician, magician : 4 words!
+Problem [5, 81], Pronounce 'dual' as 'djʊəl'. : 1 words!
+Problem [5, 82], Pronounce 'tual' as 'tʃʊəl'.For example: spiritual : 5 words!
+Problem [5, 83], Pronounce 'sual' as 'ʒuəl'.For example: visual : 1 words!
+Problem [5, 84], Pronounce 'ayor' as 'eə'. : 1 words!
+Problem [5, 85], Pronounce 'ayer' as 'eɪə'.For example: player, gayer, sayer : 5 words!
+Problem [5, 86], Suffix 'uous' changes the last letter of the word.  : 1 words!
+Problem [5, 87], Suffix 'or' adds to the word with no changes.  : 9 words!
+Problem [5, 89], Suffix 'able' adds to the word with no changes.  : 9 words!
+Problem [5, 90], Suffix 'able' drops the last letter of the stem.  : 1 words!
+Problem [5, 91], Suffix 'able' changes the last letter of the word.  : 7 words!
+Problem [6, 2], Add prefix 'mis' to the beginning of the word. For example: mistake, misses, missed : 4 words!
+Problem [6, 8], Prefix 'abb' is a common pattern in some words. When you chop off this prefix, you don't get a new word. : 1 words!
+Problem [6, 11], Prefix 'agg' is a common pattern in some words. When you chop off this prefix, you don't get a new word.For example: aggressive, aggression, aggression's : 5 words!
+Problem [6, 23], Prefix 'ill' is a common pattern in some words. When you chop off this prefix, you don't get a new word.For example: illustrated, illustrates, illegals : 8 words!
+Problem [6, 24], Prefix 'imm' is a common pattern in some words. When you chop off this prefix, you don't get a new word.For example: immediateness's, immediate, immediatenesses : 7 words!
+Problem [6, 25], Prefix 'irr' is a common pattern in some words. When you chop off this prefix, you don't get a new word. : 1 words!
+Problem [6, 27], Prefix 'ir' is a common pattern in some words. When you chop off this prefix, you don't get a new word.For example: iron, iraqi, ironing : 4 words!
+Problem [6, 29], Prefix 'succ' is a common pattern in some words. When you chop off this prefix, you don't get a new word.For example: succeeding, succeeds, succeed : 8 words!
+Problem [6, 30], Prefix 'suff' is a common pattern in some words. When you chop off this prefix, you don't get a new word.For example: suffers, suffer, suffered : 2 words!
+Problem [6, 31], Prefix 'sugg' is a common pattern in some words. When you chop off this prefix, you don't get a new word.For example: suggesting, suggested, suggest : 6 words!
+Problem [6, 33], Prefix 'summ' is a common pattern in some words. When you chop off this prefix, you don't get a new word.For example: summer, summering, summer's : 5 words!
+Problem [6, 34], Prefix 'surr' is a common pattern in some words. When you chop off this prefix, you don't get a new word.For example: surrounded, surround, surrounds : 5 words!
+Problem [7, 12],  'b' and 'q' can be confused : 0 words!
+Problem [7, 13],  'd' and 'q' can be confused : 0 words!
+Problem [7, 14],  'q' and 'g' can be confused : 2 words!
+Problem [7, 15],  'k' and 'x' can be confused : 2 words!
+Found 165/412 word lists with less than 10 words!

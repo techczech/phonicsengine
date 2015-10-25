@@ -1,0 +1,3782 @@
+{
+   "problemsIndex":[
+      {
+         "severityType":"zeroToThree",
+         "uri":"Consonants",
+         "type":{
+            "url":"Consonants"
+         }
+      },
+      {
+         "severityType":"zeroToThree",
+         "uri":"Vowels",
+         "type":{
+            "url":"Vowels"
+         }
+      },
+      {
+         "severityType":"zeroToThree",
+         "uri":"Blends and Letter Patterns",
+         "type":{
+            "url":"Blends and Letter Patterns"
+         }
+      },
+      {
+         "severityType":"zeroToThree",
+         "uri":"Syllables",
+         "type":{
+            "url":"Syllables"
+         }
+      },
+      {
+         "severityType":"zeroToThree",
+         "uri":"Suffixes",
+         "type":{
+            "url":"Suffixes"
+         }
+      },
+      {
+         "severityType":"zeroToThree",
+         "uri":"Prefixes",
+         "type":{
+            "url":"Prefixes"
+         }
+      },
+      {
+         "severityType":"binary",
+         "uri":"Confusing letters",
+         "type":{
+            "url":"Confusing letters"
+         }
+      }
+   ],
+   "problems":[
+      [
+         {
+            "descriptions":[
+               "t-t"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"t\u003dt (to) \u003c\u003e Pronounce t as t. For example: to, it, at",
+            "cluster":1,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "tt-t"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"tt\u003dt (getting) \u003c\u003e Pronounce tt as t. For example: getting, letting, putting",
+            "cluster":8,
+            "character":"Double letter"
+         },
+         {
+            "descriptions":[
+               "p-p"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"p\u003dp (up) \u003c\u003e Pronounce p as p. For example: up, put, keep",
+            "cluster":1,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "pp-p"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"pp\u003dp (happen) \u003c\u003e Pronounce pp as p. For example: happen, appear, stopped",
+            "cluster":8,
+            "character":"Double letter"
+         },
+         {
+            "descriptions":[
+               "n-n"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"n\u003dn (in) \u003c\u003e Pronounce n as n. For example: in, on, no",
+            "cluster":1,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "nn-n"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"nn\u003dn (manned) \u003c\u003e Pronounce nn as n. For example: manned, evenness, winning",
+            "cluster":8,
+            "character":"Double letter"
+         },
+         {
+            "descriptions":[
+               "s-s"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"s\u003ds (so) \u003c\u003e Pronounce s as s. For example: so, say, see",
+            "cluster":1,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "ss-s"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ss\u003ds (pass) \u003c\u003e Pronounce ss as s. For example: pass, less, loss",
+            "cluster":8,
+            "character":"Double letter"
+         },
+         {
+            "descriptions":[
+               "c-s"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"c\u003ds (city) \u003c\u003e Pronounce c as s. For example: city, cell, cite",
+            "cluster":3,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "d-d"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"d\u003dd (do) \u003c\u003e Pronounce d as d. For example: do, and, day",
+            "cluster":3,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "dd-d"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"dd\u003dd (add) \u003c\u003e Pronounce dd as d. For example: add, odd, kidded",
+            "cluster":8,
+            "character":"Double letter"
+         },
+         {
+            "descriptions":[
+               "h-h"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"h\u003dh (he) \u003c\u003e Pronounce h as h. For example: he, his, her",
+            "cluster":3,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "r-r"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"r\u003dr (try) \u003c\u003e Pronounce r as r. For example: try, from, very",
+            "cluster":5,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "rr-r"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"rr\u003dr (warring) \u003c\u003e Pronounce rr as r. For example: warring, carry, worry",
+            "cluster":8,
+            "character":"Double letter"
+         },
+         {
+            "descriptions":[
+               "m-m"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"m\u003dm (my) \u003c\u003e Pronounce m as m. For example: my, me, him",
+            "cluster":5,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "mm-m"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"mm\u003dm (summer) \u003c\u003e Pronounce mm as m. For example: summer, common, community",
+            "cluster":8,
+            "character":"Double letter"
+         },
+         {
+            "descriptions":[
+               "b-b"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"b\u003db (be) \u003c\u003e Pronounce b as b. For example: be, by, but",
+            "cluster":7,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "bb-b"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"bb\u003db (clubbed) \u003c\u003e Pronounce bb as b. For example: clubbed, grabbed, lobby",
+            "cluster":8,
+            "character":"Double letter"
+         },
+         {
+            "descriptions":[
+               "l-l"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"l\u003dl (let) \u003c\u003e Pronounce l as l. For example: let, old, like",
+            "cluster":7,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "ll-l"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ll\u003dl (all) \u003c\u003e Pronounce ll as l. For example: all, will, well",
+            "cluster":8,
+            "character":"Double letter"
+         },
+         {
+            "descriptions":[
+               "f-f"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"f\u003df (if) \u003c\u003e Pronounce f as f. For example: if, for, from",
+            "cluster":11,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "ff-f"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ff\u003df (off) \u003c\u003e Pronounce ff as f. For example: off, offer, office",
+            "cluster":11,
+            "character":"Double letter"
+         },
+         {
+            "descriptions":[
+               "ph-f"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ph\u003df (phone) \u003c\u003e Pronounce ph as f. For example: phone, photo, phase",
+            "cluster":35,
+            "character":"Xgraph"
+         },
+         {
+            "descriptions":[
+               "g-g"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"g\u003dg (go) \u003c\u003e Pronounce g as g. For example: go, get, big",
+            "cluster":11,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "gg-g"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"gg\u003dg (bigger) \u003c\u003e Pronounce gg as g. For example: bigger, egg, dogged",
+            "cluster":11,
+            "character":"Double letter"
+         },
+         {
+            "descriptions":[
+               "k-k"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"k\u003dk (ask) \u003c\u003e Pronounce k as k. For example: ask, make, take",
+            "cluster":14,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "c-k"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"c\u003dk (can) \u003c\u003e Pronounce c as k. For example: can, come, call",
+            "cluster":3,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "ck-k"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ck\u003dk (back) \u003c\u003e Pronounce ck as k. For example: back, pick, rock",
+            "cluster":14,
+            "character":"Xgraph"
+         },
+         {
+            "descriptions":[
+               "ng-ŋ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ng\u003dŋ (thing) \u003c\u003e Pronounce ng as ŋ. For example: thing, something, long",
+            "cluster":14,
+            "character":"Xgraph"
+         },
+         {
+            "descriptions":[
+               "nk-ŋk"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"nk\u003dŋk (think) \u003c\u003e Pronounce nk as ŋk. For example: think, bank, link",
+            "cluster":14,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "th-θ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"th\u003dθ (think) \u003c\u003e Pronounce th as θ. For example: think, thing, three",
+            "cluster":14,
+            "character":"Xgraph"
+         },
+         {
+            "descriptions":[
+               "v-v"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"v\u003dv (have) \u003c\u003e Pronounce v as v. For example: have, very, give",
+            "cluster":15,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "w-w"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"w\u003dw (we) \u003c\u003e Pronounce w as w. For example: we, way, with",
+            "cluster":16,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "sh-ʃ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"sh\u003dʃ (she) \u003c\u003e Pronounce sh as ʃ. For example: she, should, show",
+            "cluster":16,
+            "character":"Xgraph"
+         },
+         {
+            "descriptions":[
+               "s-ʃ"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"s\u003dʃ (sure) \u003c\u003e Pronounce s as ʃ. For example: sure, sugar, ensure",
+            "cluster":35,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "ss-ʃ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ss\u003dʃ (issue) \u003c\u003e Pronounce ss as ʃ. For example: issue, pressure, assure",
+            "cluster":35,
+            "character":"Double letter"
+         },
+         {
+            "descriptions":[
+               "y-j"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"y\u003dj (you) \u003c\u003e Pronounce y as j. For example: you, year, your",
+            "cluster":18,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "j-dʒ"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"j\u003ddʒ (just) \u003c\u003e Pronounce j as dʒ. For example: just, job, join",
+            "cluster":18,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "g-dʒ"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"g\u003ddʒ (gene) \u003c\u003e Pronounce g as dʒ. For example: gene, agent, giant",
+            "cluster":31,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "dg-dʒ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"dg\u003ddʒ (edger) \u003c\u003e Pronounce dg as dʒ. For example: edger, budget, judged",
+            "cluster":28,
+            "character":"Xgraph"
+         },
+         {
+            "descriptions":[
+               "que-k"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"que\u003dk (unique) \u003c\u003e Pronounce que as k. For example: unique, technique",
+            "cluster":18,
+            "character":"Xgraph"
+         },
+         {
+            "descriptions":[
+               "z-z"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"z\u003dz (zone) \u003c\u003e Pronounce z as z. For example: zone, sizes, dozen",
+            "cluster":18,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "zz-z"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"zz\u003dz (jazz) \u003c\u003e Pronounce zz as z. For example: jazz, puzzle",
+            "cluster":18,
+            "character":"Double letter"
+         },
+         {
+            "descriptions":[
+               "s-z"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"s\u003dz (as) \u003c\u003e Pronounce s as z. For example: as, us, his",
+            "cluster":1,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "ch-tʃ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ch\u003dtʃ (much) \u003c\u003e Pronounce ch as tʃ. For example: much, which, child",
+            "cluster":21,
+            "character":"Xgraph"
+         },
+         {
+            "descriptions":[
+               "tch-tʃ"
+            ],
+            "problemType":"TRIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"tch\u003dtʃ (watch) \u003c\u003e Pronounce tch as tʃ. For example: watch, catch, match",
+            "cluster":33,
+            "character":"Xgraph"
+         },
+         {
+            "descriptions":[
+               "th-ð"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"th\u003dð (the) \u003c\u003e Pronounce th as ð. For example: the, that, with",
+            "cluster":14,
+            "character":"Xgraph"
+         },
+         {
+            "descriptions":[
+               "x-gz"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"x\u003dgz (exist) \u003c\u003e Pronounce x as gz. For example: exist, exactly, example",
+            "cluster":18,
+            "character":"Single letter"
+         },
+         {
+            "descriptions":[
+               "x-ks"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"x\u003dks (six) \u003c\u003e Pronounce x as ks. For example: six, tax, box",
+            "cluster":18,
+            "character":"Single letter"
+         }
+      ],
+      [
+         {
+            "descriptions":[
+               "i-ɪ"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"i\u003dɪ (in) \u003c\u003e Pronounce i as ɪ. For example: in, it, if",
+            "cluster":1,
+            "character":"Short vowel"
+         },
+         {
+            "descriptions":[
+               "a-æ"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"a\u003dæ (at) \u003c\u003e Pronounce a as æ. For example: at, as, and",
+            "cluster":3,
+            "character":"Short vowel"
+         },
+         {
+            "descriptions":[
+               "o-ɒ"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"o\u003dɒ (of) \u003c\u003e Pronounce o as ɒ. For example: of, on, not",
+            "cluster":3,
+            "character":"Short vowel"
+         },
+         {
+            "descriptions":[
+               "i-aɪ"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"i\u003daɪ (find) \u003c\u003e Pronounce i as aɪ. For example: find, child, hi",
+            "cluster":1,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "e-e"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"e\u003de (get) \u003c\u003e Pronounce e as e. For example: get, let, when",
+            "cluster":5,
+            "character":"Short vowel"
+         },
+         {
+            "descriptions":[
+               "u-ʌ"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"u\u003dʌ (up) \u003c\u003e Pronounce u as ʌ. For example: up, but, much",
+            "cluster":11,
+            "character":"Short vowel"
+         },
+         {
+            "descriptions":[
+               "ar-ɑː"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"ar\u003dɑː (far) \u003c\u003e Pronounce ar as ɑː. For example: far, car, art",
+            "cluster":21,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "ee-iː"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"ee\u003diː (see) \u003c\u003e Pronounce ee as iː. For example: see, need, feel",
+            "cluster":21,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "or-ɔː"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"or\u003dɔː (or) \u003c\u003e Pronounce or as ɔː. For example: or, for, nor",
+            "cluster":21,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "y-i"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"y\u003di (any) \u003c\u003e Pronounce y as i. For example: any, very, many",
+            "cluster":21,
+            "character":"Short vowel"
+         },
+         {
+            "descriptions":[
+               "y-aɪ"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"y\u003daɪ (by) \u003c\u003e Pronounce y as aɪ. For example: by, my, try",
+            "cluster":21,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "ie-aɪ"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"ie\u003daɪ (tries) \u003c\u003e Pronounce ie as aɪ. For example: tries, die, lie",
+            "cluster":33,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "iCe-aɪC"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED",
+            "humanReadableDescription":"iCe\u003daɪC (time) \u003c\u003e Pronounce iCe as aɪC. For example: time, like, life",
+            "cluster":23,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "aCe-eɪC"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED",
+            "humanReadableDescription":"aCe\u003deɪC (make) \u003c\u003e Pronounce aCe as eɪC. For example: make, take, same",
+            "cluster":23,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "ay-eɪ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ay\u003deɪ (say) \u003c\u003e Pronounce ay as eɪ. For example: say, way, day",
+            "cluster":23,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "er-ə"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"er\u003də (her) \u003c\u003e Pronounce er as ə. For example: her, over, other",
+            "cluster":25,
+            "character":"Short vowel"
+         },
+         {
+            "descriptions":[
+               "oo-uː"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"oo\u003duː (too) \u003c\u003e Pronounce oo as uː. For example: too, school, room",
+            "cluster":27,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "oo-ʊ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"oo\u003dʊ (look) \u003c\u003e Pronounce oo as ʊ. For example: look, good, book",
+            "cluster":27,
+            "character":"Short vowel"
+         },
+         {
+            "descriptions":[
+               "oCe-əʊC"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED",
+            "humanReadableDescription":"oCe\u003dəʊC (those) \u003c\u003e Pronounce oCe as əʊC. For example: those, home, role",
+            "cluster":28,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "uCe-juːC"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED",
+            "humanReadableDescription":"uCe\u003djuːC (minute) \u003c\u003e Pronounce uCe as juːC. For example: minute, tube, assume",
+            "cluster":28,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "ea-iː"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ea\u003diː (mean) \u003c\u003e Pronounce ea as iː. For example: mean, leave, eat",
+            "cluster":28,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "ea-e"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ea\u003de (head) \u003c\u003e Pronounce ea as e. For example: head, dead, death",
+            "cluster":28,
+            "character":"Short vowel"
+         },
+         {
+            "descriptions":[
+               "ou-aʊ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ou\u003daʊ (out) \u003c\u003e Pronounce ou as aʊ. For example: out, about, house",
+            "cluster":31,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "igh-aɪ"
+            ],
+            "problemType":"TRIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"igh\u003daɪ (high) \u003c\u003e Pronounce igh as aɪ. For example: high, might, right",
+            "cluster":31,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "o-ʌ"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"o\u003dʌ (other) \u003c\u003e Pronounce o as ʌ. For example: other, another, becoming",
+            "cluster":31,
+            "character":"Short vowel"
+         },
+         {
+            "descriptions":[
+               "ice-ɪs"
+            ],
+            "problemType":"TRIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ice\u003dɪs (office) \u003c\u003e Pronounce ice as ɪs. For example: office, service, practice",
+            "cluster":31,
+            "character":"Short vowel"
+         },
+         {
+            "descriptions":[
+               "ai-eɪ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ai\u003deɪ (aid) \u003c\u003e Pronounce ai as eɪ. For example: aid, aim, wait",
+            "cluster":31,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "ow-əʊ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ow\u003dəʊ (own) \u003c\u003e Pronounce ow as əʊ. For example: own, know, low",
+            "cluster":31,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "ow-aʊ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ow\u003daʊ (now) \u003c\u003e Pronounce ow as aʊ. For example: now, how, down",
+            "cluster":31,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "oa-əʊ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"oa\u003dəʊ (road) \u003c\u003e Pronounce oa as əʊ. For example: road, goal, boat",
+            "cluster":33,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "o-əʊ"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"o\u003dəʊ (go) \u003c\u003e Pronounce o as əʊ. For example: go, so, no",
+            "cluster":28,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "eCe-iːC"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED",
+            "humanReadableDescription":"eCe\u003diːC (these) \u003c\u003e Pronounce eCe as iːC. For example: these, evenness, gene",
+            "cluster":33,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "ir-ɜː"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ir\u003dɜː (first) \u003c\u003e Pronounce ir as ɜː. For example: first, sir, girl",
+            "cluster":33,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "ur-ɜː"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ur\u003dɜː (turn) \u003c\u003e Pronounce ur as ɜː. For example: turn, hurt, burn",
+            "cluster":33,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "oi-ɔɪ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"oi\u003dɔɪ (oil) \u003c\u003e Pronounce oi as ɔɪ. For example: oil, join, soil",
+            "cluster":33,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "oy-ɔɪ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"oy\u003dɔɪ (boy) \u003c\u003e Pronounce oy as ɔɪ. For example: boy, toy, enjoys",
+            "cluster":33,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "ie-iː"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ie\u003diː (field) \u003c\u003e Pronounce ie as iː. For example: field, piece, chief",
+            "cluster":33,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "au-ɔː"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"au\u003dɔː (cause) \u003c\u003e Pronounce au as ɔː. For example: cause, sauce, pause",
+            "cluster":35,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "aw-ɔː"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"aw\u003dɔː (law) \u003c\u003e Pronounce aw as ɔː. For example: law, draw, lawyer",
+            "cluster":35,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "ore-ɔː"
+            ],
+            "problemType":"TRIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ore\u003dɔː (more) \u003c\u003e Pronounce ore as ɔː. For example: more, core, before",
+            "cluster":38,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "ew-juː"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ew\u003djuː (new) \u003c\u003e Pronounce ew as juː. For example: new, few, news",
+            "cluster":35,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "ue-uː"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ue\u003duː (blue) \u003c\u003e Pronounce ue as uː. For example: blue, issue, trued",
+            "cluster":35,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "ear-ɜː"
+            ],
+            "problemType":"TRIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ear\u003dɜː (earn) \u003c\u003e Pronounce ear as ɜː. For example: earn, learn, early",
+            "cluster":35,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "y-ɪ"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"y\u003dɪ (system) \u003c\u003e Pronounce y as ɪ. For example: system, studying, carrying",
+            "cluster":38,
+            "character":"Short vowel"
+         },
+         {
+            "descriptions":[
+               "yCe-aɪC"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED",
+            "humanReadableDescription":"yCe\u003daɪC (type) \u003c\u003e Pronounce yCe as aɪC. For example: type, style, lifestyle",
+            "cluster":38,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "ou-aʊ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ou\u003daʊ (out) \u003c\u003e Pronounce ou as aʊ. For example: out, about, house",
+            "cluster":38,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "ei-iː"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ei\u003diː (receive) \u003c\u003e Pronounce ei as iː. For example: receive, protein, ceiling",
+            "cluster":38,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "ei-eɪ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ei\u003deɪ (surveillance) \u003c\u003e Pronounce ei as eɪ. For example: surveillance",
+            "cluster":38,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "eigh-eɪ"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"eigh\u003deɪ (eight) \u003c\u003e Pronounce eigh as eɪ. For example: eight, weigh, weight",
+            "cluster":38,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "our-ə"
+            ],
+            "problemType":"TRIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"our\u003də (your) \u003c\u003e Pronounce our as ə. For example: your, colour, behaviour",
+            "cluster":38,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "ar-ə"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ar\u003də (year) \u003c\u003e Pronounce ar as ə. For example: year, sugar, solar",
+            "cluster":38,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "ui-uː"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ui\u003duː (suit) \u003c\u003e Pronounce ui as uː. For example: suit, fruit, juice",
+            "cluster":38,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "ui-ɪ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ui\u003dɪ (build) \u003c\u003e Pronounce ui as ɪ. For example: build, building, guilty",
+            "cluster":38,
+            "character":"Short vowel"
+         },
+         {
+            "descriptions":[
+               "ey-iː"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ey\u003diː (key) \u003c\u003e Pronounce ey as iː. For example: key",
+            "cluster":38,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "ey-eɪ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ey\u003deɪ (they) \u003c\u003e Pronounce ey as eɪ. For example: they, hey, grey",
+            "cluster":38,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "oe-əʊ"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"oe\u003dəʊ (goes) \u003c\u003e Pronounce oe as əʊ. For example: goes, heroes, potatoes",
+            "cluster":38,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "eu-juː"
+            ],
+            "problemType":"DIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"eu\u003djuː (neutral) \u003c\u003e Pronounce eu as juː. For example: neutral",
+            "cluster":38,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "eur-ə"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"eur\u003də (amateur) \u003c\u003e Pronounce eur as ə. For example: amateur",
+            "cluster":28,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "ine-aɪn"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED",
+            "humanReadableDescription":"ine\u003daɪn (line) \u003c\u003e Pronounce ine as aɪn. For example: line, fine, nine",
+            "cluster":23,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "ine-ɪn"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED",
+            "humanReadableDescription":"ine\u003dɪn (imagine) \u003c\u003e Pronounce ine as ɪn. For example: imagine, determine, engine",
+            "cluster":37,
+            "character":"Short vowel"
+         },
+         {
+            "descriptions":[
+               "ine-iːn"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"ine\u003diːn (magazine) \u003c\u003e Pronounce ine as iːn. For example: magazine, machine, routine",
+            "cluster":37,
+            "character":"Long vowel"
+         },
+         {
+            "descriptions":[
+               "air-eə"
+            ],
+            "problemType":"TRIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"air\u003deə (air) \u003c\u003e Pronounce air as eə. For example: air, hair, pair",
+            "cluster":31,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "are-eə"
+            ],
+            "problemType":"TRIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"are\u003deə (care) \u003c\u003e Pronounce are as eə. For example: care, rare, share",
+            "cluster":23,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "ear-eə"
+            ],
+            "problemType":"TRIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ear\u003deə (wear) \u003c\u003e Pronounce ear as eə. For example: wear, bear, swear",
+            "cluster":35,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "ear-ɪə"
+            ],
+            "problemType":"TRIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ear\u003dɪə (ear) \u003c\u003e Pronounce ear as ɪə. For example: ear, hear, near",
+            "cluster":28,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "eer-ɪə"
+            ],
+            "problemType":"TRIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"eer\u003dɪə (beer) \u003c\u003e Pronounce eer as ɪə. For example: beer, peer, career",
+            "cluster":21,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "ere-ɪə"
+            ],
+            "problemType":"TRIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ere\u003dɪə (here) \u003c\u003e Pronounce ere as ɪə. For example: here, merely, severe",
+            "cluster":28,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "ure-ʊə"
+            ],
+            "problemType":"TRIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"ure\u003dʊə (sure) \u003c\u003e Pronounce ure as ʊə. For example: sure, ensure, surely",
+            "cluster":28,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "oor-ʊə"
+            ],
+            "problemType":"TRIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"oor\u003dʊə (poor) \u003c\u003e Pronounce oor as ʊə. For example: poor",
+            "cluster":28,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "our-ʊə"
+            ],
+            "problemType":"TRIGRAPH_EQUALS_PHONEME",
+            "humanReadableDescription":"our\u003dʊə (tour) \u003c\u003e Pronounce our as ʊə. For example: tour",
+            "cluster":28,
+            "character":"Diphthong"
+         },
+         {
+            "descriptions":[
+               "a-ɒ"
+            ],
+            "problemType":"LETTER_EQUALS_PHONEME",
+            "humanReadableDescription":"a\u003dɒ (what) \u003c\u003e Pronounce a as ɒ. For example: what, want, watch",
+            "cluster":16,
+            "character":"Short vowel"
+         }
+      ],
+      [
+         {
+            "descriptions":[
+               "ip-ɪp"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"ip\u003dɪp (lip) \u003c\u003e Pronounce ip as ɪp. For example: lip, tip, hip",
+            "cluster":1,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "in-ɪn"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"in\u003dɪn (in) \u003c\u003e Pronounce in as ɪn. For example: in, win, skin",
+            "cluster":1,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "st-st"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"st\u003dst (still) \u003c\u003e Pronounce st as st. For example: still, state, student",
+            "cluster":1,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "sp-sp"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"sp\u003dsp (spot) \u003c\u003e Pronounce sp as sp. For example: spot, speak, spend",
+            "cluster":1,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "sn-sn"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"sn\u003dsn (snow) \u003c\u003e Pronounce sn as sn. For example: snow, snap, snake",
+            "cluster":1,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "sm-sm"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"sm\u003dsm (small) \u003c\u003e Pronounce sm as sm. For example: small, smile, smart",
+            "cluster":16,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "ad-æd"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"ad\u003dæd (bad) \u003c\u003e Pronounce ad as æd. For example: bad, dad, sad",
+            "cluster":3,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "and-ænd"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"and\u003dænd (and) \u003c\u003e Pronounce and as ænd. For example: and, hand, land",
+            "cluster":3,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "de-de"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"de\u003dde (desk) \u003c\u003e Pronounce de as de. For example: desk, debt, deck",
+            "cluster":5,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "act-ækt"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"act\u003dækt (act) \u003c\u003e Pronounce act as ækt. For example: act, fact, react",
+            "cluster":3,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "sc-sk"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"sc\u003dsk (score) \u003c\u003e Pronounce sc as sk. For example: score, scale, screen",
+            "cluster":3,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "cr-kr"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"cr\u003dkr (cry) \u003c\u003e Pronounce cr as kr. For example: cry, crew, create",
+            "cluster":5,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "dr-dr"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"dr\u003ddr (dry) \u003c\u003e Pronounce dr as dr. For example: dry, draw, drop",
+            "cluster":5,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "pr-pr"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"pr\u003dpr (price) \u003c\u003e Pronounce pr as pr. For example: price, problem, program",
+            "cluster":5,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "tr-tr"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"tr\u003dtr (try) \u003c\u003e Pronounce tr as tr. For example: try, tree, trip",
+            "cluster":5,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "str-str"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"str\u003dstr (strong) \u003c\u003e Pronounce str as str. For example: strong, street, strategy",
+            "cluster":5,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "spr-spr"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"spr\u003dspr (spring) \u003c\u003e Pronounce spr as spr. For example: spring, spread, spray",
+            "cluster":5,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "scr-skr"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"scr\u003dskr (screen) \u003c\u003e Pronounce scr as skr. For example: screen, scream, screw",
+            "cluster":5,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "ed-t"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"ed\u003dt (liked) \u003c\u003e Pronounce ed as t. For example: liked, asked, hissed",
+            "cluster":25,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "ed-d"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"ed\u003dd (timed) \u003c\u003e Pronounce ed as d. For example: timed, owned, willed",
+            "cluster":25,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "am-æm"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"am\u003dæm (program) \u003c\u003e Pronounce am as æm. For example: program, dam, slam",
+            "cluster":5,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "amp-æmp"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"amp\u003dæmp (camp) \u003c\u003e Pronounce amp as æmp. For example: camp, lamp",
+            "cluster":5,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "im-ɪm"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"im\u003dɪm (him) \u003c\u003e Pronounce im as ɪm. For example: him, victim, Muslim",
+            "cluster":5,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "Vb-Vb"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vb\u003dVb (job) \u003c\u003e Pronounce Vb as Vb. For example: job, lab, club",
+            "cluster":7,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "br-br"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"br\u003dbr (bring) \u003c\u003e Pronounce br as br. For example: bring, break, brain",
+            "cluster":7,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "Vlt-Vlt"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vlt\u003dVlt (salt) \u003c\u003e Pronounce Vlt as Vlt. For example: salt, result, belt",
+            "cluster":7,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "bl-bl"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"bl\u003dbl (blue) \u003c\u003e Pronounce bl as bl. For example: blue, blow, black",
+            "cluster":7,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "cl-kl"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"cl\u003dkl (club) \u003c\u003e Pronounce cl as kl. For example: club, class, clear",
+            "cluster":7,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "pl-pl"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"pl\u003dpl (play) \u003c\u003e Pronounce pl as pl. For example: play, plan, place",
+            "cluster":7,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "sl-sl"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"sl\u003dsl (slip) \u003c\u003e Pronounce sl as sl. For example: slip, slow, sleep",
+            "cluster":7,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "spl-spl"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"spl\u003dspl (split) \u003c\u003e Pronounce spl as spl. For example: split",
+            "cluster":7,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "Vll-Vl"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vll\u003dVl (all) \u003c\u003e Pronounce Vll as Vl. For example: all, will, well",
+            "cluster":8,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "Vss-Vs"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vss\u003dVs (newness) \u003c\u003e Pronounce Vss as Vs. For example: newness, pass, less",
+            "cluster":8,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "Vft-Vft"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vft\u003dVft (left) \u003c\u003e Pronounce Vft as Vft. For example: left, lift, soft",
+            "cluster":11,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "elf-elf"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"elf\u003delf (himself) \u003c\u003e Pronounce elf as elf. For example: himself, self, itself",
+            "cluster":11,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "fl-fl"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"fl\u003dfl (fly) \u003c\u003e Pronounce fl as fl. For example: fly, flow, flag",
+            "cluster":11,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "fr-fr"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"fr\u003dfr (from) \u003c\u003e Pronounce fr as fr. For example: from, free, friend",
+            "cluster":11,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "Vg-Vg"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vg\u003dVg (big) \u003c\u003e Pronounce Vg as Vg. For example: big, dog, leg",
+            "cluster":11,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "gl-gl"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"gl\u003dgl (glad) \u003c\u003e Pronounce gl as gl. For example: glad, glass, global",
+            "cluster":11,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "gr-gr"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"gr\u003dgr (group) \u003c\u003e Pronounce gr as gr. For example: group, great, grow",
+            "cluster":11,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "Vsk-Vsk"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vsk\u003dVsk (ask) \u003c\u003e Pronounce Vsk as Vsk. For example: ask, risk, task",
+            "cluster":14,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "Vlk-Vlk"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vlk\u003dVlk (milk) \u003c\u003e Pronounce Vlk as Vlk. For example: milk, silk, bulk",
+            "cluster":14,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "sk-sk"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"sk\u003dsk (ask) \u003c\u003e Pronounce sk as sk. For example: ask, sky, risk",
+            "cluster":14,
+            "character":"Middle of word"
+         },
+         {
+            "descriptions":[
+               "Vng-Vŋ"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vng\u003dVŋ (thing) \u003c\u003e Pronounce Vng as Vŋ. For example: thing, something, long",
+            "cluster":14,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "Vnk-Vŋk"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vnk\u003dVŋk (think) \u003c\u003e Pronounce Vnk as Vŋk. For example: think, bank, link",
+            "cluster":14,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "thank-θæŋk"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"thank\u003dθæŋk (thank) \u003c\u003e Pronounce thank as θæŋk. For example: thank, thanks",
+            "cluster":14,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "ath-ɑːθ"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"ath\u003dɑːθ (path) \u003c\u003e Pronounce ath as ɑːθ. For example: path, bath",
+            "cluster":14,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "oth-ɒθ"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"oth\u003dɒθ (cloth) \u003c\u003e Pronounce oth as ɒθ. For example: cloth",
+            "cluster":14,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "ength-eŋθ"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"ength\u003deŋθ (length) \u003c\u003e Pronounce ength as eŋθ. For example: length, strength",
+            "cluster":14,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "Vck-Vk"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vck\u003dVk (back) \u003c\u003e Pronounce Vck as Vk. For example: back, pick, rock",
+            "cluster":14,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "ic-ɪk"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"ic\u003dɪk (music) \u003c\u003e Pronounce ic as ɪk. For example: music, public, basic",
+            "cluster":14,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "ve-v"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"ve\u003dv (have) \u003c\u003e Pronounce ve as v. For example: have, leave, serve",
+            "cluster":16,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "sw-sw"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"sw\u003dsw (sweet) \u003c\u003e Pronounce sw as sw. For example: sweet, swing, sweep",
+            "cluster":16,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "tw-tw"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"tw\u003dtw (twin) \u003c\u003e Pronounce tw as tw. For example: twin, twice, twenty",
+            "cluster":16,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "dw-dw"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"dw\u003ddw (dwindle) \u003c\u003e Pronounce dw as dw. For example: dwindle",
+            "cluster":16,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "wa-wɒ"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"wa\u003dwɒ (want) \u003c\u003e Pronounce wa as wɒ. For example: want, watch, wash",
+            "cluster":16,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "tion-ʃən"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"tion\u003dʃən (nation) \u003c\u003e Pronounce tion as ʃən. For example: nation, action, section",
+            "cluster":28,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "swa-swɒ"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"swa\u003dswɒ (swallow) \u003c\u003e Pronounce swa as swɒ. For example: swallow",
+            "cluster":16,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "Vsh-Vʃ"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vsh\u003dVʃ (push) \u003c\u003e Pronounce Vsh as Vʃ. For example: push, fish, wish",
+            "cluster":16,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "shr-ʃr"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"shr\u003dʃr (shrug) \u003c\u003e Pronounce shr as ʃr. For example: shrug, shrimp, shrink",
+            "cluster":16,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "Vx-Vks"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vx\u003dVks (six) \u003c\u003e Pronounce Vx as Vks. For example: six, tax, box",
+            "cluster":18,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "zz-z"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"zz\u003dz (jazz) \u003c\u003e Pronounce zz as z. For example: jazz",
+            "cluster":18,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "Vff-Vf"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vff\u003dVf (off) \u003c\u003e Pronounce Vff as Vf. For example: off, staff, stuff",
+            "cluster":21,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "Vnch-Vntʃ"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vnch\u003dVntʃ (lunch) \u003c\u003e Pronounce Vnch as Vntʃ. For example: lunch, bunch, French",
+            "cluster":21,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "Vse-Vz"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vse\u003dVz (these) \u003c\u003e Pronounce Vse as Vz. For example: these, those, lose",
+            "cluster":33,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "Vze-Vz"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vze\u003dVz (size) \u003c\u003e Pronounce Vze as Vz. For example: size, gaze, prize",
+            "cluster":33,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "arch-ɑːtʃ"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"arch\u003dɑːtʃ (march) \u003c\u003e Pronounce arch as ɑːtʃ. For example: march",
+            "cluster":21,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "Vce-Vs"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vce\u003dVs (ice) \u003c\u003e Pronounce Vce as Vs. For example: ice, face, race",
+            "cluster":33,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "Vnce-Vns"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vnce\u003dVns (since) \u003c\u003e Pronounce Vnce as Vns. For example: since, dance, fence",
+            "cluster":25,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "wh-w"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"wh\u003dw (why) \u003c\u003e Pronounce wh as w. For example: why, what, when",
+            "cluster":25,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "Vge-Vdʒ"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vge\u003dVdʒ (age) \u003c\u003e Pronounce Vge as Vdʒ. For example: age, page, college",
+            "cluster":28,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "Vrge-Vdʒ"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vrge\u003dVdʒ (large) \u003c\u003e Pronounce Vrge as Vdʒ. For example: large, urge, charge",
+            "cluster":28,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "Vnge-Vndʒ"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vnge\u003dVndʒ (change) \u003c\u003e Pronounce Vnge as Vndʒ. For example: change, range, challenge",
+            "cluster":28,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "Vdge-Vdʒ"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vdge\u003dVdʒ (edge) \u003c\u003e Pronounce Vdge as Vdʒ. For example: edge, judge, knowledge",
+            "cluster":28,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "ble-bəl"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"ble\u003dbəl(able) \u003c\u003e Pronounce -ble as -bəl. For example: able, table, cable",
+            "cluster":30,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "fle-fəl"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"fle\u003dfəl(rifle) \u003c\u003e Pronounce fle as fəl. For example: rifle",
+            "cluster":30,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "ple-pəl"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"ple\u003dpəl(people) \u003c\u003e Pronounce ple as pəl. For example: people, apple, couple",
+            "cluster":30,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "tle-təl"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"tle\u003dtəl(little) \u003c\u003e Pronounce tle as təl. For example: little, title, battle",
+            "cluster":30,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "dle-dəl"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"dle\u003ddəl(middle) \u003c\u003e Pronounce dle as dəl. For example: middle, handle, needle",
+            "cluster":30,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "kle-kəl"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-kle\u003d-kəl(ankle) \u003c\u003e Pronounce -kle as -kəl. For example: ankle, tackle, sprinkle",
+            "cluster":30,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "cle-kəl"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-cle\u003d-kəl(cycle) \u003c\u003e Pronounce -cle as -kəl. For example: cycle, article, circle",
+            "cluster":30,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "gle-gəl"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-gle\u003d-gəl(single) \u003c\u003e Pronounce -gle as -gəl. For example: single, struggle, angle",
+            "cluster":30,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "zle-zəl"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-zle\u003d-zəl(puzzle) \u003c\u003e Pronounce -zle as -zəl. For example: puzzle",
+            "cluster":30,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "stle-səl"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-stle\u003d-səl(castle) \u003c\u003e Pronounce -stle as -səl. For example: castle",
+            "cluster":30,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "c-s"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"c\u003ds (city) \u003c\u003e Pronounce c as s. For example: city, cell, cite",
+            "cluster":35,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "sc-s"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"sc\u003ds (scene) \u003c\u003e Pronounce sc as s. For example: scene, science, scientist",
+            "cluster":39,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "age-ɪdʒ"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"age\u003dɪdʒ (image) \u003c\u003e Pronounce age as ɪdʒ. For example: image, manage, message",
+            "cluster":31,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "ege-ɪdʒ"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"ege\u003dɪdʒ (college) \u003c\u003e Pronounce ege as ɪdʒ. For example: college, privilege",
+            "cluster":33,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "Vtch-Vtʃ"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Vtch\u003dVtʃ (watch) \u003c\u003e Pronounce Vtch as Vtʃ. For example: watch, catch, match",
+            "cluster":33,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "ph-f"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"ph\u003df (phone) \u003c\u003e Pronounce ph as f. For example: phone, photo, phase",
+            "cluster":35,
+            "character":"Middle of word"
+         },
+         {
+            "descriptions":[
+               "pph-f"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"pph\u003df (sapphire) \u003c\u003e Pronounce pph as f. For example: sapphire",
+            "cluster":35,
+            "character":"Middle of word"
+         },
+         {
+            "descriptions":[
+               "ch-k"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"ch\u003dk (character) \u003c\u003e Pronounce ch as k. For example: character, characteristic, chemical",
+            "cluster":35,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "ch-ʃ"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"ch\u003dʃ (chef) \u003c\u003e Pronounce ch as ʃ. For example: chef",
+            "cluster":39,
+            "character":"Xgraph"
+         },
+         {
+            "descriptions":[
+               "kn-n"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"kn\u003dn (know) \u003c\u003e Pronounce kn as n. For example: know, knee, knock",
+            "cluster":39,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "gn-n"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"gn\u003dn (gnome) \u003c\u003e Pronounce gn as n. For example: gnome",
+            "cluster":39,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "gh-g"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"gh\u003dg (ghost) \u003c\u003e Pronounce gh as g. For example: ghost",
+            "cluster":39,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "ps-s"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"ps\u003ds (psychological) \u003c\u003e Pronounce ps as s. For example: psychological, psychology, psychologist",
+            "cluster":39,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "rh-r"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"rh\u003dr (rhythm) \u003c\u003e Pronounce rh as r. For example: rhythm, rhetoric",
+            "cluster":39,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "mb-m"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"mb\u003dm (bomb) \u003c\u003e Pronounce mb as m. For example: bomb, climb, limb",
+            "cluster":39,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "bt-t"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"bt\u003dt (debt) \u003c\u003e Pronounce bt as t. For example: debt, doubt",
+            "cluster":39,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "mn-m"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"mn\u003dm (column) \u003c\u003e Pronounce mn as m. For example: column, damn, condemn",
+            "cluster":39,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "wr-r"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"wr\u003dr (write) \u003c\u003e Pronounce wr as r. For example: write, wrap, wrong",
+            "cluster":39,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "pt-pt"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"pt\u003dpt (adopt) \u003c\u003e Pronounce pt as pt. For example: adopt, accept, except",
+            "cluster":11,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "st-s"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"st\u003ds (listen) \u003c\u003e Pronounce st as s. For example: listen, castle, listener",
+            "cluster":39,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "gu-g"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"gu\u003dg (guard) \u003c\u003e Pronounce gu as g. For example: guard, guarantee",
+            "cluster":39,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "gue-g"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"gue\u003dg (league) \u003c\u003e Pronounce gue as g. For example: league, colleague, fatigue",
+            "cluster":39,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "que-k"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"que\u003dk (unique) \u003c\u003e Pronounce que as k. For example: unique, technique",
+            "cluster":39,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "sch-sk"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"sch\u003dsk (school) \u003c\u003e Pronounce sch as sk. For example: school, scholar, scheme",
+            "cluster":14,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "xc-ks"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"xc\u003dks (except) \u003c\u003e Pronounce xc as ks. For example: except, excellent, exception",
+            "cluster":33,
+            "character":"Middle of word"
+         },
+         {
+            "descriptions":[
+               "alC-ɑːC"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"alC\u003dɑːC (half) \u003c\u003e Pronounce alC as ɑːC. For example: half, palm, calm",
+            "cluster":14,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "oh-əʊ"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"oh\u003dəʊ (oh) \u003c\u003e Pronounce oh as əʊ. For example: oh",
+            "cluster":39,
+            "character":"Middle of word"
+         },
+         {
+            "descriptions":[
+               "cqu-kw"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"cqu\u003dkw (acquire) \u003c\u003e Pronounce cqu as kw. For example: acquire, acquisition",
+            "cluster":39,
+            "character":"Middle of word"
+         },
+         {
+            "descriptions":[
+               "ngue-ŋ"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"ngue\u003dŋ (tongue) \u003c\u003e Pronounce ngue as ŋ. For example: tongue",
+            "cluster":39,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "olC-əʊC"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"olC\u003dəʊC (roll) \u003c\u003e Pronounce olC as əʊC. For example: roll, folk, poll",
+            "cluster":14,
+            "character":"Vowel pattern"
+         },
+         {
+            "descriptions":[
+               "quarC-kwɔːC"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"quarC\u003dkwɔːC (quarter) \u003c\u003e Pronounce quarC as kwɔːC. For example: quarter, quarterback, headquarters",
+            "cluster":39,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "Cre-Cə"
+            ],
+            "problemType":"PATTERN_EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"Cre\u003dCə (fibre) \u003c\u003e Pronounce Cre as Cə. For example: fibre, centre, theatre",
+            "cluster":33,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "ro-rə"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"ro\u003drə (provide) \u003c\u003e Pronounce ro as rə. For example: provide, project, produce",
+            "cluster":29,
+            "character":"Middle of word"
+         },
+         {
+            "descriptions":[
+               "wor-wɜː"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"wor\u003dwɜː (work) \u003c\u003e Pronounce wor as wɜː. For example: work, world, word",
+            "cluster":35,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "sci-saɪ"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"sci\u003dsaɪ (science) \u003c\u003e Pronounce sci as saɪ. For example: science, scientist, scientific",
+            "cluster":35,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "scle-səl"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"scle\u003dsəl (muscle) \u003c\u003e Pronounce scle as səl. For example: muscle",
+            "cluster":35,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "sure-ʒə"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"sure\u003dʒə (measure) \u003c\u003e Pronounce sure as ʒə. For example: measure, pleasure, exposure",
+            "cluster":35,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "ti-ʃ"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"ti\u003dʃ (nation) \u003c\u003e Pronounce ti as ʃ. For example: nation, action, patient",
+            "cluster":35,
+            "character":"Middle of word"
+         },
+         {
+            "descriptions":[
+               "ci-ʃ"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"ci\u003dʃ (social) \u003c\u003e Pronounce ci as ʃ. For example: social, special, official",
+            "cluster":35,
+            "character":"Middle of word"
+         },
+         {
+            "descriptions":[
+               "zure-ʒə"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"zure\u003dʒə (seizure) \u003c\u003e Pronounce zure as ʒə. For example: seizure",
+            "cluster":35,
+            "character":"Silent letter"
+         },
+         {
+            "descriptions":[
+               "thr-θr"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"thr\u003dθr (three) \u003c\u003e Pronounce thr as θr. For example: three, through, throw",
+            "cluster":14,
+            "character":"Beginning of word"
+         },
+         {
+            "descriptions":[
+               "nd-nd"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"nd\u003dnd (and) \u003c\u003e Pronounce nd as nd. For example: and, find, hand",
+            "cluster":8,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "nt-nt"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"nt\u003dnt (want) \u003c\u003e Pronounce nt as nt. For example: want, student, point",
+            "cluster":8,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "nch-ntʃ"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"nch\u003dntʃ (lunch) \u003c\u003e Pronounce nch as ntʃ. For example: lunch, bunch, French",
+            "cluster":8,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "mp-mp"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"mp\u003dmp (camp) \u003c\u003e Pronounce mp as mp. For example: camp, jump, pump",
+            "cluster":8,
+            "character":"End of word"
+         },
+         {
+            "descriptions":[
+               "cise-saɪz"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"cise\u003dsaɪz (exercise) \u003c\u003e Pronounce cise as saɪz. For example: exercise, criticise",
+            "cluster":33,
+            "character":"Silent letter"
+         }
+      ],
+      [
+         {
+            "descriptions":[
+               "1 syllable"
+            ],
+            "problemType":"SYLLABLE_PATTERN",
+            "humanReadableDescription":"1 syllable \u003c\u003e 1 syllable words. For example: a, I, be",
+            "cluster":4,
+            "character":"Polysyl"
+         },
+         {
+            "descriptions":[
+               "Closed syllables"
+            ],
+            "problemType":"SYLLABLE_PATTERN",
+            "humanReadableDescription":"Closed syllables \u003c\u003e Syllables are divided according to the Closed syllables pattern. For example: into, also, very",
+            "cluster":4,
+            "character":"Syllable split rules"
+         },
+         {
+            "descriptions":[
+               "Open syllables"
+            ],
+            "problemType":"SYLLABLE_PATTERN",
+            "humanReadableDescription":"Open syllables \u003c\u003e Syllables are divided according to the Open syllables pattern. For example: any, over, about",
+            "cluster":4,
+            "character":"Syllable split rules"
+         },
+         {
+            "descriptions":[
+               "vc/cv"
+            ],
+            "problemType":"SYLLABLE_PATTERN",
+            "humanReadableDescription":"vc/cv \u003c\u003e Syllables are divided according to the vc/cv pattern. For example: into, also, only",
+            "cluster":6,
+            "character":"Syllable split rules"
+         },
+         {
+            "descriptions":[
+               "v/cv"
+            ],
+            "problemType":"SYLLABLE_PATTERN",
+            "humanReadableDescription":"v/cv \u003c\u003e Syllables are divided according to the v/cv pattern. For example: any, over, about",
+            "cluster":10,
+            "character":"Syllable split rules"
+         },
+         {
+            "descriptions":[
+               "v/v"
+            ],
+            "problemType":"SYLLABLE_PATTERN",
+            "humanReadableDescription":"v/v \u003c\u003e Syllables are divided according to the v/v pattern. For example: sayer, going, seeing",
+            "cluster":13,
+            "character":"Syllable split rules"
+         },
+         {
+            "descriptions":[
+               "vc/v"
+            ],
+            "problemType":"SYLLABLE_PATTERN",
+            "humanReadableDescription":"vc/v \u003c\u003e Syllables are divided according to the vc/v pattern. For example: even, okay, user",
+            "cluster":19,
+            "character":"Syllable split rules"
+         },
+         {
+            "descriptions":[
+               "qu:vc/cv",
+               "qu:v/cv",
+               "qu:v/v"
+            ],
+            "problemType":"SYLLABLE_PATTERN",
+            "humanReadableDescription":"qu:vc/cv \u003c\u003e Syllables are divided according to the qu:vc/cv pattern. For example: require, quiet, equal",
+            "cluster":18,
+            "character":"Syllable split rules"
+         },
+         {
+            "descriptions":[
+               "ture:vc/cv",
+               "ture:v/cv",
+               "ture:vc/v"
+            ],
+            "problemType":"SYLLABLE_PATTERN",
+            "humanReadableDescription":"ture:vc/cv \u003c\u003e Syllables are divided according to the ture:vc/cv pattern. For example: future, nature, picture",
+            "cluster":28,
+            "character":"Syllable split rules"
+         },
+         {
+            "descriptions":[
+               "2 syllables"
+            ],
+            "problemType":"SYLLABLE_COUNT",
+            "humanReadableDescription":"2 syllables \u003c\u003e Words with 2 syllables. For example: any, into, also",
+            "cluster":19,
+            "character":"Polysyl"
+         },
+         {
+            "descriptions":[
+               "3 syllables"
+            ],
+            "problemType":"SYLLABLE_COUNT",
+            "humanReadableDescription":"3 syllables \u003c\u003e Words with 3 syllables. For example: family, another, area",
+            "cluster":40,
+            "character":"Polysyl"
+         },
+         {
+            "descriptions":[
+               "4 syllables"
+            ],
+            "problemType":"SYLLABLE_COUNT",
+            "humanReadableDescription":"4 syllables \u003c\u003e Words with 4 syllables. For example: economy, ability, American",
+            "cluster":40,
+            "character":"Polysyl"
+         },
+         {
+            "descriptions":[
+               "5 or more syllables"
+            ],
+            "problemType":"SYLLABLE_COUNT",
+            "humanReadableDescription":"5 or more syllables \u003c\u003e Words with 5 or more syllables. For example: opportunity, organisation, particularly",
+            "cluster":40,
+            "character":"Polysyl"
+         }
+      ],
+      [
+         {
+            "descriptions":[
+               "s"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-s (Add as in gets) \u003c\u003e Suffix -s adds to the word with no changes. For example: say+s \u003d says, get+s \u003d gets, one+s \u003d ones",
+            "cluster":1,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "ed"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-ed (Add) \u003c\u003e Suffix -ed adds to the word with no changes. For example: out+ed \u003d outed, ask+ed \u003d asked, own+ed \u003d owned",
+            "cluster":7,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "es"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-es (Add) \u003c\u003e Suffix -es adds to the word with no changes. For example: does + do+es,  go+es \u003d goes",
+            "cluster":9,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "less"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-less (Add) \u003c\u003e Suffix -less adds to the word with no changes. For example: un+less \u003d unless, end+less \u003d endless",
+            "cluster":9,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "ness"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-ness (Add) \u003c\u003e Suffix -ness adds to the word with no changes. For example: new+ness \u003d newness, just+ness \u003d justness, like+ness \u003d likeness",
+            "cluster":9,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "en"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-en (Add) \u003c\u003e Suffix -en adds to the word with no changes. For example: eat+en \u003d eaten, beat+en \u003d beaten, fall+en \u003d fallen",
+            "cluster":17,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "ing"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-ing (Add) \u003c\u003e Suffix -ing adds to the word with no changes. For example: do+ing \u003d doing, go+ing \u003d going, say+ing \u003d saying",
+            "cluster":17,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "ful"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-ful (Add) \u003c\u003e Suffix -ful adds to the word with no changes. For example: power+ful \u003d powerful, wonder+ful \u003d wonderful, success+ful \u003d successful",
+            "cluster":17,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "ish"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-ish (Add) \u003c\u003e Suffix -ish adds to the word with no changes. For example: Jew+ish \u003d Jewish, Brit+ish \u003d British",
+            "cluster":17,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "ist"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-ist (Add) \u003c\u003e Suffix -ist adds to the word with no changes. For example: art+ist \u003d artist, tour+ist \u003d tourist, terror+ist \u003d terrorist",
+            "cluster":35,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "ing"
+            ],
+            "problemType":"SUFFIX_DOUBLE",
+            "humanReadableDescription":"-ing (Double as running) \u003c\u003e Suffix -ing doubles the last letter of the word. For example: running, getting, skipping",
+            "cluster":20,
+            "character":"Double"
+         },
+         {
+            "descriptions":[
+               "ed"
+            ],
+            "problemType":"SUFFIX_DOUBLE",
+            "humanReadableDescription":"-ed (Double as tipped) \u003c\u003e Suffix -ed doubles the last letter of the word. For example: tipped, popped, fitted",
+            "cluster":20,
+            "character":"Double"
+         },
+         {
+            "descriptions":[
+               "en"
+            ],
+            "problemType":"SUFFIX_DOUBLE",
+            "humanReadableDescription":"-en (Double as forbidden) \u003c\u003e Suffix -en doubles the last letter of the word. For example: forbidden",
+            "cluster":20,
+            "character":"Double"
+         },
+         {
+            "descriptions":[
+               "ish"
+            ],
+            "problemType":"SUFFIX_DOUBLE",
+            "humanReadableDescription":"-ish (Double as Scottish) \u003c\u003e Suffix -ish doubles the last letter of the word. For example: Scottish",
+            "cluster":20,
+            "character":"Double"
+         },
+         {
+            "descriptions":[
+               "y"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-y (Add) \u003c\u003e Suffix -y adds to the word with no changes. For example: count+y \u003d county, difficult+y \u003d difficulty, guilt+y \u003d guilty",
+            "cluster":22,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "y"
+            ],
+            "problemType":"SUFFIX_DOUBLE",
+            "humanReadableDescription":"-y (Double as snappy) \u003c\u003e Suffix -y doubles the last letter of the word. For example: snappy",
+            "cluster":22,
+            "character":"Double"
+         },
+         {
+            "descriptions":[
+               "ly"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-ly (Add) \u003c\u003e Suffix -ly adds to the word with no changes. For example: dry+ly \u003d dryly, shy+ly \u003d shyly, hot+ly \u003d hotly",
+            "cluster":22,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "ity"
+            ],
+            "problemType":"SUFFIX_CHANGE",
+            "humanReadableDescription":"-ity (Change as activity) \u003c\u003e Suffix -ity changes the last letter of the word. For example: activity, security, community",
+            "cluster":22,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ility"
+            ],
+            "problemType":"SUFFIX_CHANGE",
+            "humanReadableDescription":"-ility (Change as ability) \u003c\u003e Suffix -ility changes the last letter of the word. For example: ability, facility, possibility",
+            "cluster":22,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ty"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-ty (Add) \u003c\u003e Suffix -ty adds to the word with no changes. For example: proper+ty \u003d property, safe+ty \u003d safety, special+ty \u003d specialty",
+            "cluster":22,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "ing"
+            ],
+            "problemType":"SUFFIX_DROP",
+            "humanReadableDescription":"-ing (Drop) \u003c\u003e Suffix -ing drops the last letter of the stem. For example: use+ing \u003d using, have+ing \u003d having, make+ing \u003d making",
+            "cluster":24,
+            "character":"Drop"
+         },
+         {
+            "descriptions":[
+               "ed"
+            ],
+            "problemType":"SUFFIX_DROP",
+            "humanReadableDescription":"-ed (Drop) \u003c\u003e Suffix -ed drops the last letter of the stem. For example: time+ed \u003d timed, like+ed \u003d liked, state+ed \u003d stated",
+            "cluster":24,
+            "character":"Drop"
+         },
+         {
+            "descriptions":[
+               "y"
+            ],
+            "problemType":"SUFFIX_DROP",
+            "humanReadableDescription":"-y (Drop) \u003c\u003e Suffix -y drops the last letter of the stem. For example: easy \u003d easy, crazy",
+            "cluster":24,
+            "character":"Drop"
+         },
+         {
+            "descriptions":[
+               "en"
+            ],
+            "problemType":"SUFFIX_DROP",
+            "humanReadableDescription":"-en (Drop) \u003c\u003e Suffix -en drops the last letter of the stem. For example: taken, risen, shaken",
+            "cluster":24,
+            "character":"Drop"
+         },
+         {
+            "descriptions":[
+               "er"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-er (Add) \u003c\u003e Suffix -er adds to the word with no changes. For example: go+er \u003d goer, say+er \u003d sayer, new+er \u003d newer",
+            "cluster":26,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "er"
+            ],
+            "problemType":"SUFFIX_DROP",
+            "humanReadableDescription":"-er (Drop) \u003c\u003e Suffix -er drops the last letter of the stem. For example: timer, gamer, abler",
+            "cluster":26,
+            "character":"Drop"
+         },
+         {
+            "descriptions":[
+               "er"
+            ],
+            "problemType":"SUFFIX_DOUBLE",
+            "humanReadableDescription":"-er (Double as bigger) \u003c\u003e Suffix -er doubles the last letter of the word. For example: bigger, cutter, redder",
+            "cluster":26,
+            "character":"Double"
+         },
+         {
+            "descriptions":[
+               "ed-d"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-ed\u003d-d (Add) \u003c\u003e Suffix -ed-d adds to the word with no changes. For example: need, time+d \u003d timed, out+ed \u003d outed",
+            "cluster":25,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "ed-d"
+            ],
+            "problemType":"SUFFIX_DROP",
+            "humanReadableDescription":"-ed\u003d-d (Drop) \u003c\u003e Suffix -ed-d drops the last letter of the stem. For example: need, timed, outed",
+            "cluster":25,
+            "character":"Drop"
+         },
+         {
+            "descriptions":[
+               "ed-d"
+            ],
+            "problemType":"SUFFIX_DOUBLE",
+            "humanReadableDescription":"-ed\u003d-d (Double as need) \u003c\u003e Suffix -ed-d doubles the last letter of the word. For example: need, timed, outed",
+            "cluster":25,
+            "character":"Double"
+         },
+         {
+            "descriptions":[
+               "ed-t"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-ed\u003d-t (Add) \u003c\u003e Suffix -ed-t adds to the word with no changes. For example: ask+ed \u003d asked, hiss+ed \u003d hissed",
+            "cluster":25,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "ed-t"
+            ],
+            "problemType":"SUFFIX_DROP",
+            "humanReadableDescription":"-ed\u003d-t (Drop) \u003c\u003e Suffix -ed-t drops the last letter of the stem. For example: liked, asked, hissed",
+            "cluster":25,
+            "character":"Drop"
+         },
+         {
+            "descriptions":[
+               "ed-t"
+            ],
+            "problemType":"SUFFIX_DOUBLE",
+            "humanReadableDescription":"-ed\u003d-t (Double as liked) \u003c\u003e Suffix -ed-t doubles the last letter of the word. For example: liked, asked, hissed",
+            "cluster":25,
+            "character":"Double"
+         },
+         {
+            "descriptions":[
+               "est"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-est (Add) \u003c\u003e Suffix -est adds to the word with no changes. For example: old+est \u003d oldest, shy+est \u003d shyest, low+est \u003d lowest",
+            "cluster":26,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "est"
+            ],
+            "problemType":"SUFFIX_DROP",
+            "humanReadableDescription":"-est (Drop) \u003c\u003e Suffix -est drops the last letter of the stem. For example: palest, rarest, bluest",
+            "cluster":26,
+            "character":"Drop"
+         },
+         {
+            "descriptions":[
+               "est"
+            ],
+            "problemType":"SUFFIX_DOUBLE",
+            "humanReadableDescription":"-est (Double as hottest) \u003c\u003e Suffix -est doubles the last letter of the word. For example: hottest, wettest, saddest",
+            "cluster":26,
+            "character":"Double"
+         },
+         {
+            "descriptions":[
+               "al"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-al (Add) \u003c\u003e Suffix -al adds to the word with no changes. For example: environment+al \u003d environmental, critic+al \u003d critical, emotion+al \u003d emotional",
+            "cluster":29,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "al"
+            ],
+            "problemType":"SUFFIX_DROP",
+            "humanReadableDescription":"-al (Drop) \u003c\u003e Suffix -al drops the last letter of the stem. For example: central, cultural, global",
+            "cluster":29,
+            "character":"Drop"
+         },
+         {
+            "descriptions":[
+               "es"
+            ],
+            "problemType":"SUFFIX_CHANGE",
+            "humanReadableDescription":"-es (Change as tries) \u003c\u003e Suffix -es changes the last letter of the word. For example: tries, countries, cities",
+            "cluster":32,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ed"
+            ],
+            "problemType":"SUFFIX_CHANGE",
+            "humanReadableDescription":"-ed (Change as tried) \u003c\u003e Suffix -ed changes the last letter of the word. For example: tried, studied, partied",
+            "cluster":32,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ly"
+            ],
+            "problemType":"SUFFIX_CHANGE",
+            "humanReadableDescription":"-ly (Change as easily) \u003c\u003e Suffix -ly changes the last letter of the word. For example: easily, heavily, primarily",
+            "cluster":32,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ness"
+            ],
+            "problemType":"SUFFIX_CHANGE",
+            "humanReadableDescription":"-ness (Change as business) \u003c\u003e Suffix -ness changes the last letter of the word. For example: business, easiness, readiness",
+            "cluster":32,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ful"
+            ],
+            "problemType":"SUFFIX_CHANGE",
+            "humanReadableDescription":"-ful (Change as beautiful) \u003c\u003e Suffix -ful changes the last letter of the word. For example: beautiful",
+            "cluster":32,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "less"
+            ],
+            "problemType":"SUFFIX_CHANGE",
+            "humanReadableDescription":"-less (Change as penniless) \u003c\u003e Suffix -less changes the last letter of the word. For example: penniless",
+            "cluster":32,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "er"
+            ],
+            "problemType":"SUFFIX_CHANGE",
+            "humanReadableDescription":"-er (Change as earlier) \u003c\u003e Suffix -er changes the last letter of the word. For example: earlier, drier, easier",
+            "cluster":32,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "est"
+            ],
+            "problemType":"SUFFIX_CHANGE",
+            "humanReadableDescription":"-est (Change as driest) \u003c\u003e Suffix -est changes the last letter of the word. For example: driest, holiest, busiest",
+            "cluster":32,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ing,last:double,first:add"
+            ],
+            "problemType":"SUFFIX_STRESS_PATTERN",
+            "humanReadableDescription":"-ing (double or add as using) \u003c\u003e Suffix -ing on words longer than one syllable doubles the last consonant if the the last syllable is stressed (as in submit + ing \u003d submitting) but simply adds if first syllable stressed (as in \u0027target + ing \u003d \u0027targeting).",
+            "cluster":34,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "ed,last:double,first:add"
+            ],
+            "problemType":"SUFFIX_STRESS_PATTERN",
+            "humanReadableDescription":"-s (double or add as outed) \u003c\u003e Suffix -ed on words longer than one syllable doubles the last consonant if the the last syllable is stressed (as in submit + ed \u003d submitted) but simply adds if first syllable stressed (as in \u0027target + ed \u003d \u0027targeted).",
+            "cluster":34,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "ation-eɪʃən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-ation-eɪʃən(nation) \u003c\u003e Suffix -ation-eɪʃən. For example: nation, station, education",
+            "cluster":28,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "otion-əʊʃən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-otion-əʊʃən(notion) \u003c\u003e Suffix -otion-əʊʃən. For example: notion, motion, emotion",
+            "cluster":28,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ition-ɪʃən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-ition-ɪʃən(position) \u003c\u003e Suffix -ition-ɪʃən. For example: position, condition, tradition",
+            "cluster":28,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ution-uːʃən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-ution-uːʃən(institution) \u003c\u003e Suffix -ution-uːʃən. For example: institution, solution, resolution",
+            "cluster":28,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "action-ækʃən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-action-ækʃən(action) \u003c\u003e Suffix -action-ækʃən. For example: action, reaction, interaction",
+            "cluster":28,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ection-ekʃən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-ection-ekʃən(section) \u003c\u003e Suffix -ection-ekʃən. For example: section, election, direction",
+            "cluster":28,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "iction-ɪkʃən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-iction-ɪkʃən(fiction) \u003c\u003e Suffix -iction-ɪkʃən. For example: fiction, conviction, prediction",
+            "cluster":28,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "uction-ʌkʃən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-uction-ʌkʃən(production) \u003c\u003e Suffix -uction-ʌkʃən. For example: production, instruction, construction",
+            "cluster":28,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ention-enʃən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-ention-enʃən(mention) \u003c\u003e Suffix -ention-enʃən. For example: mention, attention, intervention",
+            "cluster":28,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "asion-eɪʒən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-asion-eɪʒən(occasion) \u003c\u003e Suffix -asion-eɪʒən. For example: occasion, invasion",
+            "cluster":35,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "usion-uːʒən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-usion-uːʒən(conclusion) \u003c\u003e Suffix -usion-uːʒən. For example: conclusion, illusion, confusion",
+            "cluster":35,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ision-ɪʒən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-ision-ɪʒən(decision) \u003c\u003e Suffix -ision-ɪʒən. For example: decision, television, vision",
+            "cluster":35,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "osion-əʊʒən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-osion-əʊʒən(explosion) \u003c\u003e Suffix -osion-əʊʒən. For example: explosion",
+            "cluster":35,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "mission-mɪʃən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-mission-mɪʃən(mission) \u003c\u003e Suffix -mission-mɪʃən. For example: mission, commission, emission",
+            "cluster":35,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ession-eʃən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-ession-eʃən(session) \u003c\u003e Suffix -ession-eʃən. For example: session, expression, depression",
+            "cluster":35,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ussion-ʌʃən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-ussion-ʌʃən(discussion) \u003c\u003e Suffix -ussion-ʌʃən. For example: discussion",
+            "cluster":35,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "version-vɜːʃən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-version-vɜːʃən(version) \u003c\u003e Suffix -version-vɜːʃən. For example: version, conversion",
+            "cluster":35,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ulsion-ʌlʃən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-ulsion-ʌlʃən(expulsion) \u003c\u003e Suffix -ulsion-ʌlʃən. For example: expulsion",
+            "cluster":35,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ous"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-ous (Add) \u003c\u003e Suffix -ous adds to the word with no changes. For example: danger+ous \u003d dangerous",
+            "cluster":37,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "ous"
+            ],
+            "problemType":"SUFFIX_DROP",
+            "humanReadableDescription":"-ous (Drop) \u003c\u003e Suffix -ous drops the last letter of the stem. For example: famous, nervous, ridiculous",
+            "cluster":37,
+            "character":"Drop"
+         },
+         {
+            "descriptions":[
+               "ous"
+            ],
+            "problemType":"SUFFIX_CHANGE",
+            "humanReadableDescription":"-ous (Change as enormous) \u003c\u003e Suffix -ous changes the last letter of the word. For example: enormous, numerous, generous",
+            "cluster":37,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "tious"
+            ],
+            "problemType":"SUFFIX_CHANGE",
+            "humanReadableDescription":"-tious (Change as ambitious) \u003c\u003e Suffix -tious changes the last letter of the word. For example: ambitious",
+            "cluster":37,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "cious"
+            ],
+            "problemType":"SUFFIX_CHANGE",
+            "humanReadableDescription":"-cious (Change as precious) \u003c\u003e Suffix -cious changes the last letter of the word. For example: precious, conscious, suspicious",
+            "cluster":37,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ious"
+            ],
+            "problemType":"SUFFIX_CHANGE",
+            "humanReadableDescription":"-ious (Change as serious) \u003c\u003e Suffix -ious changes the last letter of the word. For example: serious, various, religious",
+            "cluster":37,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "tial-ʃəl"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"tial\u003dʃəl (initial) \u003c\u003e Pronounce tial as ʃəl. For example: initial, potential, essential",
+            "cluster":35,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "sion-ʒən"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"sion\u003dʒən (decision) \u003c\u003e Pronounce sion as ʒən. For example: decision, television, vision",
+            "cluster":35,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "sure-ʒə"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_CONTAINS",
+            "humanReadableDescription":"sure\u003dʒə (measure) \u003c\u003e Pronounce sure as ʒə. For example: measure, pleasure, exposure",
+            "cluster":35,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "cial-ʃəl"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"cial\u003dʃəl (social) \u003c\u003e Pronounce cial as ʃəl. For example: social, special, official",
+            "cluster":35,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "tial-ʃəl"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"tial\u003dʃəl (initial) \u003c\u003e Pronounce tial as ʃəl. For example: initial, potential, essential",
+            "cluster":35,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ology-ɒlədʒi"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"ology\u003dɒlədʒi (technology) \u003c\u003e Pronounce ology as ɒlədʒi. For example: technology, biology, ideology",
+            "cluster":35,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "tory-təri"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"tory\u003dtəri (history) \u003c\u003e Pronounce tory as təri. For example: history, victory, factory",
+            "cluster":35,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "cian-ʃən"
+            ],
+            "problemType":"SUFFIX_PATTERN",
+            "humanReadableDescription":"-cian-ʃən(politician) \u003c\u003e Suffix -cian-ʃən. For example: politician, physician, musician",
+            "cluster":37,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "dual-djʊəl"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"dual\u003ddjʊəl (individual) \u003c\u003e Pronounce dual as djʊəl. For example: individual",
+            "cluster":37,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "tual-tʃʊəl"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"tual\u003dtʃʊəl (spiritual) \u003c\u003e Pronounce tual as tʃʊəl. For example: spiritual, intellectual, mutual",
+            "cluster":37,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "sual-ʒuəl"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"sual\u003dʒuəl (visual) \u003c\u003e Pronounce sual as ʒuəl. For example: visual",
+            "cluster":37,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ayor-eə"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"ayor\u003deə (mayor) \u003c\u003e Pronounce ayor as eə. For example: mayor",
+            "cluster":38,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ayer-eɪə"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_ENDS",
+            "humanReadableDescription":"ayer\u003deɪə (sayer) \u003c\u003e Pronounce ayer as eɪə. For example: sayer, payer, layer",
+            "cluster":38,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "uous"
+            ],
+            "problemType":"SUFFIX_CHANGE",
+            "humanReadableDescription":"-uous (Change as continuous) \u003c\u003e Suffix -uous changes the last letter of the word. For example: continuous",
+            "cluster":37,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "or"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-or (Add) \u003c\u003e Suffix -or adds to the word with no changes. For example: act+or \u003d actor, edit+or \u003d editor, invest+or \u003d investor",
+            "cluster":38,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "or"
+            ],
+            "problemType":"SUFFIX_DROP",
+            "humanReadableDescription":"-or (Drop) \u003c\u003e Suffix -or drops the last letter of the stem. For example: educator, prosecutor, investigator",
+            "cluster":38,
+            "character":"Drop"
+         },
+         {
+            "descriptions":[
+               "able"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-able (Add) \u003c\u003e Suffix -able adds to the word with no changes. For example: comfort+able \u003d comfortable, reason+able \u003d reasonable, suit+able \u003d suitable",
+            "cluster":29,
+            "character":"Add"
+         },
+         {
+            "descriptions":[
+               "able"
+            ],
+            "problemType":"SUFFIX_DROP",
+            "humanReadableDescription":"-able (Drop) \u003c\u003e Suffix -able drops the last letter of the stem. For example: comparable",
+            "cluster":29,
+            "character":"Drop"
+         },
+         {
+            "descriptions":[
+               "able"
+            ],
+            "problemType":"SUFFIX_CHANGE",
+            "humanReadableDescription":"-able (Change as available) \u003c\u003e Suffix -able changes the last letter of the word. For example: available, variable, capable",
+            "cluster":29,
+            "character":"Change"
+         },
+         {
+            "descriptions":[
+               "ment"
+            ],
+            "problemType":"SUFFIX_ADD",
+            "humanReadableDescription":"-ment (Add) \u003c\u003e Suffix -ment adds to the word with no changes. For example: move+ment \u003d movement, treat+ment \u003d treatment, state+ment \u003d statement",
+            "cluster":35,
+            "character":"Add"
+         }
+      ],
+      [
+         {
+            "descriptions":[
+               "un"
+            ],
+            "problemType":"PREFIX",
+            "humanReadableDescription":"un- \u003c\u003e Add prefix un- to the beginning of the word. For example: until, unless, unable",
+            "cluster":12,
+            "character":"Prefix add"
+         },
+         {
+            "descriptions":[
+               "mis"
+            ],
+            "problemType":"PREFIX",
+            "humanReadableDescription":"mis- \u003c\u003e Add prefix mis- to the beginning of the word. For example: mistake",
+            "cluster":12,
+            "character":"Prefix add"
+         },
+         {
+            "descriptions":[
+               "under"
+            ],
+            "problemType":"PREFIX",
+            "humanReadableDescription":"under- \u003c\u003e Add prefix under- to the beginning of the word. For example: understand, understanding, undergo",
+            "cluster":28,
+            "character":"Prefix add"
+         },
+         {
+            "descriptions":[
+               "over"
+            ],
+            "problemType":"PREFIX",
+            "humanReadableDescription":"over- \u003c\u003e Add prefix over- to the beginning of the word. For example: overall, overcome, oversee",
+            "cluster":28,
+            "character":"Prefix add"
+         },
+         {
+            "descriptions":[
+               "pro-prə"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"pro\u003dprə (provide) \u003c\u003e Pronounce pro as prə. For example: provide, project, produce",
+            "cluster":28,
+            "character":"Prefix add"
+         },
+         {
+            "descriptions":[
+               "pre-prɪ"
+            ],
+            "problemType":"EQUALS_PRONUNCIATION_BEGINS",
+            "humanReadableDescription":"pre\u003dprɪ (pretty) \u003c\u003e Pronounce pre as prɪ. For example: pretty, present, prepare",
+            "cluster":28,
+            "character":"Prefix add"
+         },
+         {
+            "descriptions":[
+               "ad"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"ad- (admit) \u003c\u003e Prefix ad- is a common pattern in words like: admit, adopt, administration. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Prefix add"
+         },
+         {
+            "descriptions":[
+               "abb"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"abb- (abbreviation) \u003c\u003e Prefix abb- is a common pattern in words like: abbreviation. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "acc"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"acc- (accept) \u003c\u003e Prefix acc- is a common pattern in words like: accept, according, access. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "aff"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"aff- (affect) \u003c\u003e Prefix aff- is a common pattern in words like: affect, affair, afford. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "agg"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"agg- (aggressive) \u003c\u003e Prefix agg- is a common pattern in words like: aggressive, aggression. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "all"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"all- (ally) \u003c\u003e Prefix all- is a common pattern in words like: ally, alleged, alliance. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "ann"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"ann- (annual) \u003c\u003e Prefix ann- is a common pattern in words like: annual, announce, annually. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "app"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"app- (appear) \u003c\u003e Prefix app- is a common pattern in words like: appear, apply, approach. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "arr"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"arr- (arrest) \u003c\u003e Prefix arr- is a common pattern in words like: arrest, arrange, arrangement. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "ass"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"ass- (asset) \u003c\u003e Prefix ass- is a common pattern in words like: asset, assume, assess. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "att"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"att- (attack) \u003c\u003e Prefix att- is a common pattern in words like: attack, attention, attend. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "con"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"con- (control) \u003c\u003e Prefix con- is a common pattern in words like: control, concern, contain. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Prefix add"
+         },
+         {
+            "descriptions":[
+               "coll"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"coll- (college) \u003c\u003e Prefix coll- is a common pattern in words like: college, collect, colleague. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "corr"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"corr- (correct) \u003c\u003e Prefix corr- is a common pattern in words like: correct, correspondent, corridor. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "comm"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"comm- (common) \u003c\u003e Prefix comm- is a common pattern in words like: common, community, commercial. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "in"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"in- (into) \u003c\u003e Prefix in- is a common pattern in words like: into, include, inside. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":12,
+            "character":"Prefix add"
+         },
+         {
+            "descriptions":[
+               "ill"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"ill- (illegal) \u003c\u003e Prefix ill- is a common pattern in words like: illegal, illustrate, illusion. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "imm"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"imm- (immediately) \u003c\u003e Prefix imm- is a common pattern in words like: immediately, immigrant, immediate. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "irr"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"irr- (irrational) \u003c\u003e Prefix irr- is a common pattern in words like: irrational. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "im"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"im- (imply) \u003c\u003e Prefix im- is a common pattern in words like: imply, impact, improve. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "ir"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"ir- (irons) \u003c\u003e Prefix ir- is a common pattern in words like: irons, irony, ironically. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "sub"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"sub- (subject) \u003c\u003e Prefix sub- is a common pattern in words like: subject, substance, substantial. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "succ"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"succ- (success) \u003c\u003e Prefix succ- is a common pattern in words like: success, successful, succeed. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "suff"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"suff- (sufficient) \u003c\u003e Prefix suff- is a common pattern in words like: sufficient. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "sugg"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"sugg- (suggest) \u003c\u003e Prefix sugg- is a common pattern in words like: suggest, suggestion. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "supp"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"supp- (support) \u003c\u003e Prefix supp- is a common pattern in words like: support, supply, supposed. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "summ"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"summ- (summit) \u003c\u003e Prefix summ- is a common pattern in words like: summit, summary. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "surr"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"surr- (surround) \u003c\u003e Prefix surr- is a common pattern in words like: surround, surrounding. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "dis"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"dis- (disease) \u003c\u003e Prefix dis- is a common pattern in words like: disease, discuss, discover. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "diff"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"diff- (different) \u003c\u003e Prefix diff- is a common pattern in words like: different, difficult, difference. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "ob"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"ob- (object) \u003c\u003e Prefix ob- is a common pattern in words like: object, obtain, observe. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "off"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"off- (office) \u003c\u003e Prefix off- is a common pattern in words like: office, officer, official. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "opp"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"opp- (opportunity) \u003c\u003e Prefix opp- is a common pattern in words like: opportunity, oppose, opposition. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "occ"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"occ- (occur) \u003c\u003e Prefix occ- is a common pattern in words like: occur, occupy, occasion. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         },
+         {
+            "descriptions":[
+               "ex"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"ex- (expect) \u003c\u003e Prefix ex- is a common pattern in words like: expect, exist, extra. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Prefix add"
+         },
+         {
+            "descriptions":[
+               "eff"
+            ],
+            "problemType":"PREFIX_GROUP",
+            "humanReadableDescription":"eff- (effect) \u003c\u003e Prefix eff- is a common pattern in words like: effect, effort, effective. When you chop off this prefix, you don\u0027t get a new word.",
+            "cluster":36,
+            "character":"Assimilate"
+         }
+      ],
+      [
+         {
+            "descriptions":[
+               "n/h"
+            ],
+            "problemType":"LETTER_PAIR",
+            "humanReadableDescription":"n/h (not/hot) \u003c\u003e n and h can be confused. For example: not, hot",
+            "cluster":3,
+            "character":"Letter pairs"
+         },
+         {
+            "descriptions":[
+               "a/o"
+            ],
+            "problemType":"LETTER_PAIR",
+            "humanReadableDescription":"a/o (an/on) \u003c\u003e a and o can be confused. For example: an, on, for, far",
+            "cluster":3,
+            "character":"Letter pairs"
+         },
+         {
+            "descriptions":[
+               "r/t"
+            ],
+            "problemType":"LETTER_PAIR",
+            "humanReadableDescription":"r/t (nor/not) \u003c\u003e r and t can be confused. For example: not, nor, out, our",
+            "cluster":5,
+            "character":"Letter pairs"
+         },
+         {
+            "descriptions":[
+               "m/n"
+            ],
+            "problemType":"LETTER_PAIR",
+            "humanReadableDescription":"m/n (them/then) \u003c\u003e m and n can be confused. For example: them, then, sun, sum",
+            "cluster":5,
+            "character":"Letter pairs"
+         },
+         {
+            "descriptions":[
+               "m/h"
+            ],
+            "problemType":"LETTER_PAIR",
+            "humanReadableDescription":"m/h (me/he) \u003c\u003e m and h can be confused. For example: he, me, hay, may",
+            "cluster":5,
+            "character":"Letter pairs"
+         },
+         {
+            "descriptions":[
+               "b/d"
+            ],
+            "problemType":"LETTER_PAIR",
+            "humanReadableDescription":"b/d (bad/dad) \u003c\u003e b and d can be confused. For example: day, bay, bad, dad",
+            "cluster":7,
+            "character":"Letter pairs"
+         },
+         {
+            "descriptions":[
+               "l/r"
+            ],
+            "problemType":"LETTER_PAIR",
+            "humanReadableDescription":"l/r (law/raw) \u003c\u003e l and r can be confused. For example: law, raw, low, row",
+            "cluster":7,
+            "character":"Letter pairs"
+         },
+         {
+            "descriptions":[
+               "b/g"
+            ],
+            "problemType":"LETTER_PAIR",
+            "humanReadableDescription":"b/g (buy/guy) \u003c\u003e b and g can be confused. For example: but, gut, buy, guy",
+            "cluster":11,
+            "character":"Letter pairs"
+         },
+         {
+            "descriptions":[
+               "d/g"
+            ],
+            "problemType":"LETTER_PAIR",
+            "humanReadableDescription":"d/g (do/go) \u003c\u003e d and g can be confused. For example: do, go, day, gay",
+            "cluster":11,
+            "character":"Letter pairs"
+         },
+         {
+            "descriptions":[
+               "t/f"
+            ],
+            "problemType":"LETTER_PAIR",
+            "humanReadableDescription":"t/f (it/if) \u003c\u003e t and f can be confused. For example: it, if, fill, till",
+            "cluster":11,
+            "character":"Letter pairs"
+         },
+         {
+            "descriptions":[
+               "r/f"
+            ],
+            "problemType":"LETTER_PAIR",
+            "humanReadableDescription":"r/f (fun/run) \u003c\u003e r and f can be confused. For example: of, or, fun, run",
+            "cluster":11,
+            "character":"Letter pairs"
+         },
+         {
+            "descriptions":[
+               "b/q"
+            ],
+            "problemType":"LETTER_PAIR",
+            "humanReadableDescription":"b/q (buick/quick) \u003c\u003e b and q can be confused.",
+            "cluster":18,
+            "character":"Letter pairs"
+         },
+         {
+            "descriptions":[
+               "d/q"
+            ],
+            "problemType":"LETTER_PAIR",
+            "humanReadableDescription":"d/q (duck/quack) \u003c\u003e d and q can be confused.",
+            "cluster":18,
+            "character":"Letter pairs"
+         },
+         {
+            "descriptions":[
+               "q/g"
+            ],
+            "problemType":"LETTER_PAIR",
+            "humanReadableDescription":"q/g (guest/quest) \u003c\u003e q and g can be confused. For example: guest, quest",
+            "cluster":18,
+            "character":"Letter pairs"
+         },
+         {
+            "descriptions":[
+               "k/x"
+            ],
+            "problemType":"LETTER_PAIR",
+            "humanReadableDescription":"k/x (takes/taxes) \u003c\u003e k and x can be confused. For example: takes, taxes",
+            "cluster":18,
+            "character":"Letter pairs"
+         }
+      ]
+   ],
+   "language":"EN"
+}

@@ -1,0 +1,92 @@
+//*
+Version 2: 
+- Added short version to patterns separated by <> . These are important for listings. The long version should be included in detailed descriptions. They could be separate items in the JSON file - Human Readable (Short) / Human Readable (Long), or one item parsed out. If we can only use 1. Let's use short for now, but it would be good to add the long one, as well.
+
+- Added a new PATTERN called SYLLABLE_PATTERN_OPEN_SYLLABLES because Open/Closed syllables do not fit in the context.
+
+- *Bold*
+*//
+
+// English language
+
+SUFFIX_ADD
+-X (Add) <> Suffix *-X* adds to the word with no changes. For example: Z.
+X = suffix; Z = top 3 most frequent words in dictionary with suffix showing the process, e.g. run + s = runs
+
+SUFFIX_DROP
+-X (Drop) <> Suffix *-X* drops the last letter of the stem. For example: Z.
+X = suffix; Z = top 3 most frequent words in dictionary with suffix, e.g. like + ed = liked
+
+SUFFIX_CHANGE
+-X (Change as W) <> Suffix *-X* changes the last letter of the word. For example: Z.
+X = suffix; W = top 1 example from list; Z = top 3 most frequent words in dictionary with suffix; e.g. happy + er = happier
+
+SUFFIX_DOUBLE
+-X (Double as W) <> Suffix *-X* doubles the last letter of the word. For example: Z.
+X = suffix; W = top 1 example from list; Z = top 3 most frequent words in dictionary with suffix; e.g. run + ing = running
+
+SUFFIX_PATTERN 
+-X (W) <> Suffix *-X*. For example: Z.
+X = suffix; W = top 1 example from list; Z = top 3 most frequent words in dictionary with suffix; e.g. run + ing = running
+
+SUFFIX_STRESS_PATTERN
+Index 47: -ing (double or add as W) <> Suffix *-ing* on words longer than one syllable doubles the last consonant if the the last syllable is stressed (as in submit + ing = submitting) but simply adds if first syllable stressed (as in 'target + ing = 'targeting). 
+
+Index 48: -s (double or add as W) <> Suffix *-ed* on words longer than one syllable doubles the last consonant if the the last syllable is stressed (as in submit + ed = submitted) but simply adds if first syllable stressed (as in 'target + ed = 'targeted). 
+
+PREFIX
+X- (W) <> Add prefix *X-* to the beginning of the word.
+W = top 1 example from list;
+
+PREFIX_GROUP
+X- (W) <> Prefix *X-* is a common pattern in words like Z. When you chop off this prefix, you don't get a new word.
+W = top 1 example from list;
+
+LETTER_EQUALS_PHONEME
+X = Y (W) <> Pronounce X as Y. For example: Z.
+X = letter; Y = phoneme; Z = top 3 most frequent /easiest words; W = top 1 word in list
+
+DIGRAPH_EQUALS_PHONEME
+X = Y (W) <> Pronounce X as Y. For example: Z.
+X = digraph; Y = phoneme; Z = top 3 most frequent /easiest words; W = top 1 word in list
+
+TRIGRAPH_EQUALS_PHONEME
+X = Y (W) <> Pronounce X as Y. For example: Z.
+X = trigraph; Y = phoneme; Z = top 3 most frequent /easiest words; W = top 1 word in list
+
+PATTERN_EQUALS_PRONUNCIATION_CONTAINS
+X = Y (W) <> Pronounce X as Y. For example: Z.
+X = pattern; Y = pronunciation; Z = top 3 most frequent /easiest words; W = top 1 word in list
+
+PATTERN_EQUALS_PRONUNCIATION_CONTAINS_MIXED
+X = Y (W) <> Pronounce X as Y. For example: Z. X means that when (LPB is followed by VC) OR (VC is followed by LPA) OR (VC is between LPB and LPA), X is pronounced  as Y.
+X = pattern; Y = pronunciation; Z = top 3 most frequent /easiest words; W = top 1 word in list; VC = Vowel or Consonant depending on pattern; LPB = letter pattern before VC; LPA = letter pattern after VC
+
+PATTERN_EQUALS_PRONUNCIATION_BEGINS
+X = Y (W) <> Pronounce X as Y. For example: Z.
+X = pattern; Y = pronunciation; Z = top 3 most frequent /easiest words; W = top 1 word in list
+
+PATTERN_EQUALS_PRONUNCIATION_ENDS
+X = Y (W) <> Pronounce X as Y. For example: Z.
+X = pattern; Y = pronunciation; Z = top 3 most frequent /easiest words; W = top 1 word in list
+
+EQUALS_PRONUNCIATION_CONTAINS
+
+EQUALS_PRONUNCIATION_BEGINS
+
+EQUALS_PRONUNCIATION_ENDS
+
+SYLLABLE_PATTERN
+X <> Syllables are divided according to the X pattern.
+X = pattern
+
+SYLLABLE_PATTERN_OPEN_SYLLABLES /*added this new patter because the above not suitable for Open/Closed*/
+X <> The first syllable in the word is X.
+X = Open OR Closed
+
+SYLLABLE_COUNT
+X syllables <> Words with X syllables.
+
+LETTER_PAIR
+X (W) <> *X1* and *X2* can be confused. For example: Z.
+X = label (X1 and X2 = X separated by /). W = 1 word example. Z = 3 word examples. To be fixed manually.
