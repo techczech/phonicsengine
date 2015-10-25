@@ -1,0 +1,12 @@
+vowels_all:{ɜː,ə,əʊ,æ,ɑː,aɪ,aʊ,ɛ,ɛə,eɪ,ɪ,iː,ɪə,juː,ɔː,ɔɪ,ɒ,ʊ,uː,ʊə,ʌ}
+vowels_short:{ə,æ,ɛ,ɪ,ɒ,ʊ,ʌ)
+vowels_long:{ɜː,ɑː,iː,juː,ɔː,uː}
+vowels_diphthongs:{əʊ,aɪ,aʊ,ɛə,eɪ,ɪə,ɔɪ,ʊə}
+vowels_short-long_pairs:{ə-ɜː,æ-eɪ,ɛ-iː,ɪ-aɪ,ɒ-əʊ,ʊ-uː,ʌ-juː}
+vowels_reduced:{ə,ɪ} //only reduced in contrast to other vowels; ə can be the reduced version of ɪ but not vice versa
+consonants:{b,d,ð,dʒ,f,ɡ,h,j,k,l,m,n,ŋ,p,r,s,ʃ,t,θ,tʃ,v,w,z,ʒ}
+consonants_special_chars:{ð,dʒ,ŋ,ʃ,θ,tʃ,ʒ}
+consonants_voiced:{b,d,ð,dʒ,ɡ,j,l,m,n,ŋ,r,v,w,z,ʒ}
+consonants_voiceless:{f,h,k,p,s,ʃ,t,θ,tʃ}
+consonants_sibilants:{dʒ,s,ʃ,tʃ,z,ʒ}
+consonants_voiced-voiceless_pairs:{b-p,d-t,ð-θ,dʒ-tʃ,ɡ-k,v-f,z-s,ʒ-ʃ}
